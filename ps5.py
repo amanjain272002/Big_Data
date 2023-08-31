@@ -45,7 +45,7 @@ if(len(lst1) == len(lst2) and len(lst2) == len(lst3)):
 print("Printing total number of missing cells in each column => ")
 print(dct2)    
 
-
+df.to_csv('ps5.csv')
 df1 = pd.DataFrame(dct)
 df1.set_index('x',inplace=True)
 df1.plot(kind='bar',title='Find and process Missing Data')
