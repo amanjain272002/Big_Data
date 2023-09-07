@@ -1,0 +1,1909 @@
+,District Name,Rural/Urban,Total Number of households,Total Number of Livable,Total Number of Dilapidated,Latrine_premise
+0,Kupwara,Rural,100,58.1,8.3,48.9
+1,Kupwara,Total,100,57.3,7.9,50.9
+2,Kupwara,Urban,100,49.5,4.8,70.2
+3,Badgam,Rural,100,46.3,3.9,83.3
+4,Badgam,Total,100,44.7,3.8,84.3
+5,Badgam,Urban,100,33.8,2.6,90.4
+6,Leh(Ladakh),Rural,100,51.5,2.1,88.1
+7,Leh(Ladakh),Total,100,52.4,1.8,90.4
+8,Leh(Ladakh),Urban,100,54.6,1.1,95.8
+9,Kargil,Rural,100,73.3,3.5,96.8
+10,Kargil,Total,100,72.6,3.2,96.9
+11,Kargil,Urban,100,68.8,1.2,97.5
+12,Punch,Rural,100,59.5,2.4,13.7
+13,Punch,Total,100,56.9,2.3,18.7
+14,Punch,Urban,100,27.3,0.8,75.3
+15,Rajouri,Rural,100,52.9,2.7,10.2
+16,Rajouri,Total,100,51.0,2.6,14.3
+17,Rajouri,Urban,100,18.6,1.7,85.5
+18,Kathua,Rural,100,36.7,3.5,14.2
+19,Kathua,Total,100,35.3,3.4,22.1
+20,Kathua,Urban,100,27.0,3.1,67.1
+21,Baramula,Rural,100,46.1,5.3,74.3
+22,Baramula,Total,100,44.0,5.2,77.6
+23,Baramula,Urban,100,34.0,5.0,92.5
+24,Bandipore,Rural,100,53.7,7.4,70.1
+25,Bandipore,Total,100,50.0,6.9,74.0
+26,Bandipore,Urban,100,31.0,4.3,94.3
+27,Srinagar,Rural,100,38.4,6.3,88.7
+28,Srinagar,Total,100,23.5,2.2,97.9
+29,Srinagar,Urban,100,23.2,2.2,98.1
+30,Ganderbal,Rural,100,47.4,9.5,69.5
+31,Ganderbal,Total,100,43.5,8.8,72.8
+32,Ganderbal,Urban,100,22.0,4.5,91.3
+33,Pulwama,Rural,100,43.0,4.6,62.7
+34,Pulwama,Total,100,42.9,4.4,66.3
+35,Pulwama,Urban,100,42.4,3.0,91.1
+36,Shupiyan,Rural,100,33.2,5.9,59.0
+37,Shupiyan,Total,100,33.3,5.7,61.1
+38,Shupiyan,Urban,100,34.4,3.3,94.8
+39,Anantnag,Rural,100,43.3,5.1,50.8
+40,Anantnag,Total,100,39.8,4.7,56.6
+41,Anantnag,Urban,100,28.5,3.1,75.5
+42,Kulgam,Rural,100,49.0,4.7,41.7
+43,Kulgam,Total,100,47.7,4.6,44.9
+44,Kulgam,Urban,100,42.0,4.2,58.5
+45,Doda,Rural,100,60.0,1.6,24.0
+46,Doda,Total,100,57.2,1.7,29.3
+47,Doda,Urban,100,23.7,2.9,93.4
+48,Ramban,Rural,100,51.5,2.1,17.8
+49,Ramban,Total,100,50.3,2.1,20.1
+50,Ramban,Urban,100,19.3,2.4,82.7
+51,Kishtwar,Rural,100,52.0,3.4,20.0
+52,Kishtwar,Total,100,49.8,3.3,24.2
+53,Kishtwar,Urban,100,13.5,0.7,93.4
+54,Udhampur,Rural,100,44.7,2.0,7.4
+55,Udhampur,Total,100,39.9,2.0,19.3
+56,Udhampur,Urban,100,17.0,1.8,75.1
+57,Reasi,Rural,100,54.9,1.5,9.0
+58,Reasi,Total,100,53.5,1.4,15.2
+59,Reasi,Urban,100,39.5,1.1,78.8
+60,Jammu,Rural,100,38.4,4.9,24.6
+61,Jammu,Total,100,30.8,4.2,53.8
+62,Jammu,Urban,100,22.6,3.4,84.9
+63,Samba,Rural,100,30.5,3.3,26.0
+64,Samba,Total,100,28.5,3.0,32.9
+65,Samba,Urban,100,17.8,1.1,70.7
+66,Chamba,Rural,100,38.0,2.3,48.8
+67,Chamba,Total,100,36.6,2.2,51.5
+68,Chamba,Urban,100,18.6,0.7,87.0
+69,Kangra,Rural,100,25.3,1.4,64.4
+70,Kangra,Total,100,25.0,1.4,65.5
+71,Kangra,Urban,100,19.0,1.6,82.3
+72,Lahul & Spiti,Rural,100,33.7,0.8,78.1
+73,Lahul & Spiti,Total,100,33.7,0.8,78.1
+74,Kullu,Rural,100,27.5,1.2,54.2
+75,Kullu,Total,100,26.1,1.2,58.4
+76,Kullu,Urban,100,15.4,1.3,90.6
+77,Mandi,Rural,100,28.0,1.6,82.0
+78,Mandi,Total,100,27.2,1.6,82.7
+79,Mandi,Urban,100,17.3,0.7,92.0
+80,Hamirpur,Rural,100,21.6,1.0,89.1
+81,Hamirpur,Total,100,21.3,1.0,89.3
+82,Hamirpur,Urban,100,17.2,0.6,92.3
+83,Una,Rural,100,25.3,1.4,58.8
+84,Una,Total,100,25.2,1.7,60.3
+85,Una,Urban,100,24.4,4.8,74.6
+86,Bilaspur,Rural,100,26.9,1.3,68.8
+87,Bilaspur,Total,100,26.2,1.3,70.6
+88,Bilaspur,Urban,100,16.9,0.8,93.5
+89,Solan,Rural,100,24.5,1.9,69.0
+90,Solan,Total,100,23.3,1.8,73.4
+91,Solan,Urban,100,18.7,1.4,89.8
+92,Sirmaur,Rural,100,30.9,2.8,56.9
+93,Sirmaur,Total,100,29.4,2.6,62.1
+94,Sirmaur,Urban,100,19.7,1.0,96.1
+95,Shimla,Rural,100,24.4,2.3,59.8
+96,Shimla,Total,100,22.7,2.0,68.3
+97,Shimla,Urban,100,18.1,1.3,90.7
+98,Kinnaur,Rural,100,29.3,1.0,69.2
+99,Kinnaur,Total,100,29.3,1.0,69.2
+100,Gurdaspur,Rural,100,49.4,9.0,50.1
+101,Gurdaspur,Total,100,47.1,7.9,60.0
+102,Gurdaspur,Urban,100,41.1,5.2,85.6
+103,Kapurthala,Rural,100,41.4,6.1,77.4
+104,Kapurthala,Total,100,38.1,5.4,83.3
+105,Kapurthala,Urban,100,32.0,4.1,94.1
+106,Jalandhar,Rural,100,46.7,6.2,76.0
+107,Jalandhar,Total,100,42.1,5.5,86.5
+108,Jalandhar,Urban,100,38.1,4.8,95.8
+109,Hoshiarpur,Rural,100,41.0,6.5,57.0
+110,Hoshiarpur,Total,100,39.6,6.1,63.9
+111,Hoshiarpur,Urban,100,34.3,4.9,88.9
+112,Shahid Bhagat Singh Nagar,Rural,100,40.1,5.4,66.8
+113,Shahid Bhagat Singh Nagar,Total,100,39.2,5.6,70.5
+114,Shahid Bhagat Singh Nagar,Urban,100,36.0,6.5,85.1
+115,Fatehgarh Sahib,Rural,100,39.1,6.4,82.5
+116,Fatehgarh Sahib,Total,100,37.8,5.8,86.3
+117,Fatehgarh Sahib,Urban,100,35.3,4.5,93.9
+118,Ludhiana,Rural,100,45.1,7.1,87.5
+119,Ludhiana,Total,100,42.5,5.8,93.3
+120,Ludhiana,Urban,100,40.9,4.9,96.9
+121,Moga,Rural,100,45.2,7.4,85.4
+122,Moga,Total,100,42.7,7.3,87.6
+123,Moga,Urban,100,34.8,6.7,94.7
+124,Firozpur,Rural,100,50.9,10.8,66.6
+125,Firozpur,Total,100,48.2,9.7,73.2
+126,Firozpur,Urban,100,41.1,7.1,90.7
+127,Muktsar,Rural,100,52.8,10.7,72.3
+128,Muktsar,Total,100,49.2,10.2,77.3
+129,Muktsar,Urban,100,40.3,9.1,89.8
+130,Faridkot,Rural,100,49.0,7.7,80.1
+131,Faridkot,Total,100,45.9,7.9,84.6
+132,Faridkot,Urban,100,40.4,8.1,92.8
+133,Bathinda,Rural,100,51.1,7.4,84.3
+134,Bathinda,Total,100,44.4,6.7,87.4
+135,Bathinda,Urban,100,32.4,5.4,93.1
+136,Mansa,Rural,100,46.5,7.2,62.9
+137,Mansa,Total,100,43.8,7.0,67.7
+138,Mansa,Urban,100,34.1,5.9,85.0
+139,Patiala,Rural,100,48.0,7.1,77.3
+140,Patiala,Total,100,41.4,5.9,85.6
+141,Patiala,Urban,100,32.2,4.2,96.9
+142,Amritsar,Rural,100,55.2,7.8,60.8
+143,Amritsar,Total,100,48.1,6.5,79.0
+144,Amritsar,Urban,100,42.5,5.4,93.4
+145,Tarn Taran,Rural,100,55.7,8.1,64.8
+146,Tarn Taran,Total,100,54.1,7.9,67.8
+147,Tarn Taran,Urban,100,43.6,7.1,87.7
+148,Rupnagar,Rural,100,35.6,6.0,56.9
+149,Rupnagar,Total,100,33.4,5.8,66.5
+150,Rupnagar,Urban,100,27.6,5.0,91.7
+151,Sahibzada Ajit Singh Nagar,Rural,100,43.2,7.3,60.7
+152,Sahibzada Ajit Singh Nagar,Total,100,31.9,5.2,79.1
+153,Sahibzada Ajit Singh Nagar,Urban,100,23.7,3.8,92.4
+154,Sangrur,Rural,100,45.7,6.1,78.6
+155,Sangrur,Total,100,42.2,5.7,82.8
+156,Sangrur,Urban,100,34.4,4.7,92.0
+157,Barnala,Rural,100,49.7,6.5,80.2
+158,Barnala,Total,100,46.8,6.3,83.5
+159,Barnala,Urban,100,41.0,5.9,90.2
+160,Chandigarh,Rural,100,46.9,2.8,88.0
+161,Chandigarh,Total,100,27.2,3.5,87.6
+162,Chandigarh,Urban,100,26.6,3.5,87.6
+163,Uttarkashi,Rural,100,27.0,3.0,39.5
+164,Uttarkashi,Total,100,26.1,2.9,43.7
+165,Uttarkashi,Urban,100,15.9,0.8,91.5
+166,Chamoli,Rural,100,26.3,2.5,47.0
+167,Chamoli,Total,100,24.1,2.3,53.1
+168,Chamoli,Urban,100,11.6,0.9,87.5
+169,Rudraprayag,Rural,100,19.8,1.9,51.0
+170,Rudraprayag,Total,100,19.4,1.8,52.9
+171,Rudraprayag,Urban,100,9.7,0.3,91.6
+172,Tehri Garhwal,Rural,100,27.6,2.8,50.1
+173,Tehri Garhwal,Total,100,25.5,2.5,55.8
+174,Tehri Garhwal,Urban,100,10.6,0.7,95.9
+175,Dehradun,Rural,100,26.7,3.9,74.6
+176,Dehradun,Total,100,23.1,3.0,86.4
+177,Dehradun,Urban,100,20.4,2.4,95.2
+178,Garhwal,Rural,100,25.1,1.8,48.3
+179,Garhwal,Total,100,23.4,1.7,55.3
+180,Garhwal,Urban,100,14.4,1.1,94.7
+181,Pithoragarh,Rural,100,25.4,2.3,48.0
+182,Pithoragarh,Total,100,23.1,2.1,55.2
+183,Pithoragarh,Urban,100,9.9,0.5,96.5
+184,Bageshwar,Rural,100,25.1,2.9,53.5
+185,Bageshwar,Total,100,24.6,2.9,54.8
+186,Bageshwar,Urban,100,9.1,0.9,90.0
+187,Almora,Rural,100,24.1,1.7,51.6
+188,Almora,Total,100,23.2,1.7,55.3
+189,Almora,Urban,100,14.5,1.3,91.9
+190,Champawat,Rural,100,40.3,6.0,40.4
+191,Champawat,Total,100,38.5,6.0,46.4
+192,Champawat,Urban,100,28.1,5.9,79.9
+193,Nainital,Rural,100,31.7,5.1,69.4
+194,Nainital,Total,100,27.0,4.3,79.5
+195,Nainital,Urban,100,19.8,3.0,94.8
+196,Udham Singh Nagar,Rural,100,45.9,6.7,56.9
+197,Udham Singh Nagar,Total,100,42.6,5.8,69.3
+198,Udham Singh Nagar,Urban,100,36.4,4.0,92.0
+199,Hardwar,Rural,100,48.3,5.3,50.2
+200,Hardwar,Total,100,39.4,4.1,66.6
+201,Hardwar,Urban,100,25.3,2.2,92.6
+202,Panchkula,Rural,100,35.2,4.9,44.0
+203,Panchkula,Total,100,27.5,4.8,70.7
+204,Panchkula,Urban,100,22.7,4.7,87.6
+205,Ambala,Rural,100,44.2,4.3,51.1
+206,Ambala,Total,100,37.0,3.9,68.7
+207,Ambala,Urban,100,28.4,3.3,89.3
+208,Yamunanagar,Rural,100,47.1,6.4,46.0
+209,Yamunanagar,Total,100,41.6,5.4,65.2
+210,Yamunanagar,Urban,100,33.9,4.0,91.9
+211,Kurukshetra,Rural,100,46.0,4.3,69.1
+212,Kurukshetra,Total,100,41.1,4.0,76.0
+213,Kurukshetra,Urban,100,29.6,3.5,92.4
+214,Kaithal,Rural,100,48.5,4.8,57.7
+215,Kaithal,Total,100,45.8,4.6,63.4
+216,Kaithal,Urban,100,36.9,4.1,82.7
+217,Karnal,Rural,100,47.5,4.9,68.6
+218,Karnal,Total,100,41.7,4.2,75.9
+219,Karnal,Urban,100,29.3,2.6,91.6
+220,Panipat,Rural,100,47.6,4.2,66.7
+221,Panipat,Total,100,43.5,3.5,80.2
+222,Panipat,Urban,100,39.0,2.9,94.9
+223,Sonipat,Rural,100,50.2,4.7,56.2
+224,Sonipat,Total,100,45.4,4.3,68.1
+225,Sonipat,Urban,100,35.6,3.4,92.2
+226,Jind,Rural,100,51.1,5.0,51.3
+227,Jind,Total,100,47.0,4.4,59.9
+228,Jind,Urban,100,33.9,2.8,87.6
+229,Fatehabad,Rural,100,46.4,5.7,72.9
+230,Fatehabad,Total,100,43.9,5.5,76.4
+231,Fatehabad,Urban,100,33.8,4.9,90.9
+232,Sirsa,Rural,100,41.7,5.9,87.5
+233,Sirsa,Total,100,39.5,5.4,89.7
+234,Sirsa,Urban,100,33.0,4.1,95.9
+235,Hisar,Rural,100,46.5,5.5,62.5
+236,Hisar,Total,100,41.9,4.8,71.1
+237,Hisar,Urban,100,32.2,3.3,89.5
+238,Bhiwani,Rural,100,45.9,5.3,49.2
+239,Bhiwani,Total,100,45.0,5.1,56.9
+240,Bhiwani,Urban,100,41.6,4.4,86.8
+241,Rohtak,Rural,100,49.3,4.7,58.4
+242,Rohtak,Total,100,42.4,3.9,72.9
+243,Rohtak,Urban,100,33.3,2.7,92.1
+244,Jhajjar,Rural,100,45.1,4.9,58.5
+245,Jhajjar,Total,100,44.0,4.8,67.4
+246,Jhajjar,Urban,100,40.9,4.5,91.7
+247,Mahendragarh,Rural,100,42.1,3.1,39.0
+248,Mahendragarh,Total,100,41.4,3.0,44.3
+249,Mahendragarh,Urban,100,37.2,2.8,77.2
+250,Rewari,Rural,100,41.7,3.3,49.8
+251,Rewari,Total,100,39.0,3.1,59.4
+252,Rewari,Urban,100,31.0,2.4,87.8
+253,Gurgaon,Rural,100,39.3,3.2,65.6
+254,Gurgaon,Total,100,30.7,3.7,84.6
+255,Gurgaon,Urban,100,27.4,3.9,91.7
+256,Mewat,Rural,100,58.4,9.0,17.8
+257,Mewat,Total,100,56.3,8.5,23.4
+258,Mewat,Urban,100,41.2,4.8,62.5
+259,Faridabad,Rural,100,43.2,4.3,58.6
+260,Faridabad,Total,100,39.8,2.8,84.0
+261,Faridabad,Urban,100,39.1,2.4,89.2
+262,Palwal,Rural,100,51.1,6.3,32.1
+263,Palwal,Total,100,47.5,5.6,44.4
+264,Palwal,Urban,100,36.2,3.6,82.8
+265,North West,Rural,100,46.6,4.5,64.1
+266,North West,Total,100,35.0,3.4,84.7
+267,North West,Urban,100,34.4,3.3,85.9
+268,North,Rural,100,25.3,0.9,98.0
+269,North,Total,100,36.9,3.4,90.0
+270,North,Urban,100,37.1,3.5,89.9
+271,North East,Rural,100,36.4,2.8,95.0
+272,North East,Total,100,35.6,2.0,95.1
+273,North East,Urban,100,35.6,2.0,95.1
+274,East,Rural,100,6.7,1.2,98.1
+275,East,Total,100,24.1,1.9,93.4
+276,East,Urban,100,24.2,1.9,93.4
+277,New Delhi,Total,100,28.8,3.7,77.9
+278,New Delhi,Urban,100,28.8,3.7,77.9
+279,Central,Total,100,39.3,3.2,90.8
+280,Central,Urban,100,39.3,3.2,90.8
+281,West,Rural,100,48.3,1.8,87.1
+282,West,Total,100,28.9,2.8,89.9
+283,West,Urban,100,28.8,2.8,89.9
+284,South West,Rural,100,35.5,3.3,87.7
+285,South West,Total,100,28.1,2.6,91.0
+286,South West,Urban,100,27.7,2.6,91.2
+287,South,Rural,100,41.3,4.6,90.6
+288,South,Total,100,30.4,2.9,88.0
+289,South,Urban,100,30.3,2.9,88.0
+290,Ganganagar,Rural,100,42.1,2.5,81.3
+291,Ganganagar,Total,100,39.3,2.7,84.7
+292,Ganganagar,Urban,100,32.2,3.3,93.6
+293,Hanumangarh,Rural,100,36.8,2.4,82.3
+294,Hanumangarh,Total,100,35.9,2.5,84.6
+295,Hanumangarh,Urban,100,32.2,3.1,93.9
+296,Bikaner,Rural,100,50.6,4.9,29.5
+297,Bikaner,Total,100,42.3,3.8,51.9
+298,Bikaner,Urban,100,27.3,1.7,92.6
+299,Churu,Rural,100,39.2,5.8,47.0
+300,Churu,Total,100,36.8,4.9,57.8
+301,Churu,Urban,100,30.4,2.2,87.5
+302,Jhunjhunun,Rural,100,24.4,2.4,45.7
+303,Jhunjhunun,Total,100,24.6,2.3,53.6
+304,Jhunjhunun,Urban,100,25.4,1.8,82.5
+305,Alwar,Rural,100,39.5,3.6,14.8
+306,Alwar,Total,100,37.4,3.2,27.5
+307,Alwar,Urban,100,28.8,1.6,79.3
+308,Bharatpur,Rural,100,54.5,4.7,7.8
+309,Bharatpur,Total,100,52.0,4.2,20.3
+310,Bharatpur,Urban,100,42.0,2.4,69.5
+311,Dhaulpur,Rural,100,58.4,6.6,4.8
+312,Dhaulpur,Total,100,54.6,5.9,16.4
+313,Dhaulpur,Urban,100,39.8,3.5,62.8
+314,Karauli,Rural,100,62.4,5.6,8.2
+315,Karauli,Total,100,59.4,5.3,15.9
+316,Karauli,Urban,100,41.5,3.1,62.4
+317,Sawai Madhopur,Rural,100,55.2,4.4,8.8
+318,Sawai Madhopur,Total,100,51.4,4.1,20.7
+319,Sawai Madhopur,Urban,100,34.8,2.6,72.2
+320,Dausa,Rural,100,47.1,5.3,9.3
+321,Dausa,Total,100,44.7,4.9,17.4
+322,Dausa,Urban,100,26.8,1.4,77.0
+323,Jaipur,Rural,100,42.6,4.2,22.0
+324,Jaipur,Total,100,33.9,2.5,60.6
+325,Jaipur,Urban,100,27.1,1.2,90.7
+326,Sikar,Rural,100,31.4,2.8,40.2
+327,Sikar,Total,100,30.4,2.5,50.0
+328,Sikar,Urban,100,26.9,1.6,84.7
+329,Nagaur,Rural,100,46.4,6.3,26.5
+330,Nagaur,Total,100,43.9,5.6,35.8
+331,Nagaur,Urban,100,32.0,2.4,80.6
+332,Jodhpur,Rural,100,49.5,5.2,13.7
+333,Jodhpur,Total,100,41.4,4.0,39.7
+334,Jodhpur,Urban,100,25.8,1.7,90.1
+335,Jaisalmer,Rural,100,56.1,3.2,16.7
+336,Jaisalmer,Total,100,54.0,3.0,23.3
+337,Jaisalmer,Urban,100,40.4,1.7,66.5
+338,Barmer,Rural,100,59.4,5.3,9.7
+339,Barmer,Total,100,57.2,5.1,14.9
+340,Barmer,Urban,100,29.0,2.5,82.8
+341,Jalor,Rural,100,52.1,8.4,11.3
+342,Jalor,Total,100,50.8,8.0,15.5
+343,Jalor,Urban,100,36.5,4.0,61.9
+344,Sirohi,Rural,100,50.8,6.9,16.2
+345,Sirohi,Total,100,45.9,5.9,26.8
+346,Sirohi,Urban,100,26.8,1.9,68.2
+347,Pali,Rural,100,50.1,5.4,18.7
+348,Pali,Total,100,46.7,4.8,29.0
+349,Pali,Urban,100,33.2,2.5,69.1
+350,Ajmer,Rural,100,49.9,3.4,14.1
+351,Ajmer,Total,100,41.3,2.5,42.3
+352,Ajmer,Urban,100,27.9,1.1,86.2
+353,Tonk,Rural,100,54.1,1.9,6.9
+354,Tonk,Total,100,50.5,2.0,18.7
+355,Tonk,Urban,100,36.3,2.5,65.7
+356,Bundi,Rural,100,56.3,3.4,8.3
+357,Bundi,Total,100,51.9,3.1,19.1
+358,Bundi,Urban,100,33.6,2.0,64.2
+359,Bhilwara,Rural,100,55.5,3.6,10.5
+360,Bhilwara,Total,100,50.4,3.1,23.4
+361,Bhilwara,Urban,100,30.1,1.3,74.7
+362,Rajsamand,Rural,100,54.6,4.2,11.3
+363,Rajsamand,Total,100,51.2,3.7,20.0
+364,Rajsamand,Urban,100,30.9,1.0,71.4
+365,Dungarpur,Rural,100,62.1,6.2,9.1
+366,Dungarpur,Total,100,59.7,5.9,13.4
+367,Dungarpur,Urban,100,25.6,2.1,74.1
+368,Banswara,Rural,100,68.6,9.1,6.9
+369,Banswara,Total,100,65.3,8.6,12.4
+370,Banswara,Urban,100,23.5,2.3,82.5
+371,Chittaurgarh,Rural,100,54.9,3.6,9.6
+372,Chittaurgarh,Total,100,49.9,3.3,20.8
+373,Chittaurgarh,Urban,100,26.8,1.8,72.5
+374,Kota,Rural,100,46.3,2.8,12.3
+375,Kota,Total,100,36.0,2.2,51.4
+376,Kota,Urban,100,29.3,1.9,76.8
+377,Baran,Rural,100,50.7,3.1,7.5
+378,Baran,Total,100,47.5,2.9,17.6
+379,Baran,Urban,100,34.9,2.0,57.3
+380,Jhalawar,Rural,100,59.7,4.3,7.2
+381,Jhalawar,Total,100,55.0,3.9,16.6
+382,Jhalawar,Urban,100,30.0,2.1,66.9
+383,Udaipur,Rural,100,60.1,3.8,9.3
+384,Udaipur,Total,100,52.6,3.3,24.4
+385,Udaipur,Urban,100,22.0,1.2,86.2
+386,Pratapgarh,Rural,100,63.2,2.5,6.2
+387,Pratapgarh,Total,100,60.0,2.4,11.4
+388,Pratapgarh,Urban,100,24.0,1.4,70.1
+389,Saharanpur,Rural,100,46.5,5.7,42.9
+390,Saharanpur,Total,100,43.6,4.9,58.3
+391,Saharanpur,Urban,100,37.3,3.1,92.0
+392,Muzaffarnagar,Rural,100,50.2,4.6,54.9
+393,Muzaffarnagar,Total,100,47.2,4.2,66.0
+394,Muzaffarnagar,Urban,100,40.0,3.2,92.6
+395,Bijnor,Rural,100,52.6,5.5,50.4
+396,Bijnor,Total,100,50.2,5.0,60.5
+397,Bijnor,Urban,100,42.7,3.2,92.4
+398,Moradabad,Rural,100,63.5,6.0,47.8
+399,Moradabad,Total,100,57.7,5.1,63.2
+400,Moradabad,Urban,100,46.2,3.2,93.6
+401,Rampur,Rural,100,64.9,6.2,56.4
+402,Rampur,Total,100,60.6,5.6,66.2
+403,Rampur,Urban,100,48.5,3.9,94.3
+404,Jyotiba Phule Nagar,Rural,100,60.5,5.9,40.3
+405,Jyotiba Phule Nagar,Total,100,58.0,5.4,53.2
+406,Jyotiba Phule Nagar,Urban,100,50.7,4.0,92.0
+407,Meerut,Rural,100,49.9,4.1,53.1
+408,Meerut,Total,100,42.5,3.0,74.1
+409,Meerut,Urban,100,35.9,2.1,92.9
+410,Baghpat,Rural,100,52.3,3.2,58.8
+411,Baghpat,Total,100,51.0,3.2,64.7
+412,Baghpat,Urban,100,46.5,3.1,86.5
+413,Ghaziabad,Rural,100,50.7,3.6,59.8
+414,Ghaziabad,Total,100,38.9,2.3,84.6
+415,Ghaziabad,Urban,100,34.1,1.8,94.8
+416,Gautam Buddha Nagar,Rural,100,42.3,2.4,51.7
+417,Gautam Buddha Nagar,Total,100,33.0,1.6,77.7
+418,Gautam Buddha Nagar,Urban,100,28.1,1.3,91.5
+419,Bulandshahr,Rural,100,56.3,4.3,30.9
+420,Bulandshahr,Total,100,53.1,3.9,44.3
+421,Bulandshahr,Urban,100,43.3,2.8,85.0
+422,Aligarh,Rural,100,56.7,4.3,21.4
+423,Aligarh,Total,100,52.0,3.8,42.0
+424,Aligarh,Urban,100,42.4,2.7,84.4
+425,Mahamaya Nagar,Rural,100,55.1,4.2,16.5
+426,Mahamaya Nagar,Total,100,53.3,4.0,28.4
+427,Mahamaya Nagar,Urban,100,46.4,3.2,72.7
+428,Mathura,Rural,100,53.3,4.0,19.6
+429,Mathura,Total,100,49.6,3.5,37.6
+430,Mathura,Urban,100,40.5,2.3,81.2
+431,Agra,Rural,100,52.9,4.3,16.6
+432,Agra,Total,100,46.2,3.2,46.3
+433,Agra,Urban,100,38.2,1.9,82.0
+434,Firozabad,Rural,100,57.6,6.7,11.4
+435,Firozabad,Total,100,55.7,5.8,35.6
+436,Firozabad,Urban,100,52.1,4.0,82.1
+437,Mainpuri,Rural,100,53.4,7.5,13.5
+438,Mainpuri,Total,100,51.6,7.0,23.2
+439,Mainpuri,Urban,100,41.6,4.4,75.4
+440,Budaun,Rural,100,65.4,8.1,21.0
+441,Budaun,Total,100,62.9,7.7,31.2
+442,Budaun,Urban,100,51.8,6.3,77.5
+443,Bareilly,Rural,100,63.0,7.7,44.8
+444,Bareilly,Total,100,57.0,6.3,62.0
+445,Bareilly,Urban,100,46.6,4.0,92.3
+446,Pilibhit,Rural,100,62.7,9.2,35.5
+447,Pilibhit,Total,100,59.7,9.1,44.9
+448,Pilibhit,Urban,100,45.6,8.4,88.8
+449,Shahjahanpur,Rural,100,61.5,12.0,27.0
+450,Shahjahanpur,Total,100,59.2,11.2,38.3
+451,Shahjahanpur,Urban,100,49.7,8.2,85.9
+452,Kheri,Rural,100,64.0,11.1,18.3
+453,Kheri,Total,100,61.9,10.9,24.8
+454,Kheri,Urban,100,45.8,8.9,76.2
+455,Sitapur,Rural,100,61.9,12.1,11.9
+456,Sitapur,Total,100,59.9,11.8,18.3
+457,Sitapur,Urban,100,42.4,8.5,72.0
+458,Hardoi,Rural,100,62.3,8.3,17.4
+459,Hardoi,Total,100,60.3,8.1,24.5
+460,Hardoi,Urban,100,46.4,6.6,74.0
+461,Unnao,Rural,100,59.0,7.3,15.8
+462,Unnao,Total,100,56.6,6.9,24.9
+463,Unnao,Urban,100,44.2,5.1,71.7
+464,Lucknow,Rural,100,57.2,8.3,21.5
+465,Lucknow,Total,100,39.8,5.5,65.6
+466,Lucknow,Urban,100,31.1,4.1,87.7
+467,Rae Bareli,Rural,100,55.4,7.8,13.4
+468,Rae Bareli,Total,100,53.6,7.6,18.3
+469,Rae Bareli,Urban,100,34.1,5.2,71.1
+470,Farrukhabad,Rural,100,59.6,8.6,23.9
+471,Farrukhabad,Total,100,56.5,7.8,36.8
+472,Farrukhabad,Urban,100,45.7,4.7,81.7
+473,Kannauj,Rural,100,58.3,8.8,21.7
+474,Kannauj,Total,100,55.8,8.3,30.6
+475,Kannauj,Urban,100,43.3,5.9,75.6
+476,Etawah,Rural,100,54.7,7.8,19.8
+477,Etawah,Total,100,51.5,7.0,33.9
+478,Etawah,Urban,100,40.5,4.2,83.4
+479,Auraiya,Rural,100,55.2,9.0,20.4
+480,Auraiya,Total,100,52.5,8.2,29.3
+481,Auraiya,Urban,100,38.6,4.0,75.2
+482,Kanpur Dehat,Rural,100,56.8,8.4,23.0
+483,Kanpur Dehat,Total,100,55.2,8.1,27.0
+484,Kanpur Dehat,Urban,100,39.5,5.9,66.3
+485,Kanpur Nagar,Rural,100,58.8,6.9,23.6
+486,Kanpur Nagar,Total,100,45.8,5.6,63.3
+487,Kanpur Nagar,Urban,100,38.7,4.8,85.2
+488,Jalaun,Rural,100,57.3,2.9,28.3
+489,Jalaun,Total,100,53.4,3.1,39.9
+490,Jalaun,Urban,100,41.1,3.5,75.6
+491,Jhansi,Rural,100,47.4,2.0,20.7
+492,Jhansi,Total,100,41.6,1.9,41.1
+493,Jhansi,Urban,100,32.9,1.9,71.6
+494,Lalitpur,Rural,100,52.8,2.7,12.0
+495,Lalitpur,Total,100,50.4,2.7,19.4
+496,Lalitpur,Urban,100,36.2,2.6,62.9
+497,Hamirpur,Rural,100,50.5,1.5,25.0
+498,Hamirpur,Total,100,48.1,1.5,32.8
+499,Hamirpur,Urban,100,37.1,1.6,68.7
+500,Mahoba,Rural,100,50.7,1.7,17.8
+501,Mahoba,Total,100,50.2,1.7,25.5
+502,Mahoba,Urban,100,48.7,1.6,54.7
+503,Banda,Rural,100,52.9,1.1,20.0
+504,Banda,Total,100,50.2,1.2,28.1
+505,Banda,Urban,100,35.2,1.7,73.5
+506,Chitrakoot,Rural,100,52.5,1.8,11.8
+507,Chitrakoot,Total,100,51.9,1.9,16.5
+508,Chitrakoot,Urban,100,46.7,2.7,58.7
+509,Fatehpur,Rural,100,57.4,5.7,18.3
+510,Fatehpur,Total,100,55.4,5.5,24.7
+511,Fatehpur,Urban,100,40.9,4.3,72.1
+512,Pratapgarh,Rural,100,44.7,6.3,11.3
+513,Pratapgarh,Total,100,44.0,6.1,14.0
+514,Pratapgarh,Urban,100,31.7,3.0,64.1
+515,Kaushambi,Rural,100,55.2,4.4,13.8
+516,Kaushambi,Total,100,54.2,4.4,16.7
+517,Kaushambi,Urban,100,42.9,4.4,51.4
+518,Allahabad,Rural,100,48.8,4.6,15.6
+519,Allahabad,Total,100,44.7,4.2,31.0
+520,Allahabad,Urban,100,30.5,2.9,84.0
+521,Bara Banki,Rural,100,50.9,11.9,13.2
+522,Bara Banki,Total,100,49.8,11.6,18.3
+523,Bara Banki,Urban,100,39.5,8.8,67.8
+524,Faizabad,Rural,100,51.4,9.3,14.5
+525,Faizabad,Total,100,49.3,8.7,22.7
+526,Faizabad,Urban,100,36.1,4.9,76.2
+527,Ambedkar Nagar,Rural,100,46.4,9.9,13.9
+528,Ambedkar Nagar,Total,100,45.9,9.9,18.6
+529,Ambedkar Nagar,Urban,100,42.0,9.8,54.4
+530,Sultanpur,Rural,100,49.8,8.6,13.1
+531,Sultanpur,Total,100,48.8,8.4,16.2
+532,Sultanpur,Urban,100,29.7,4.4,72.9
+533,Bahraich,Rural,100,61.7,8.6,10.5
+534,Bahraich,Total,100,60.2,8.4,15.7
+535,Bahraich,Urban,100,42.0,5.7,79.5
+536,Shrawasti,Rural,100,56.2,6.8,10.4
+537,Shrawasti,Total,100,55.6,6.9,12.0
+538,Shrawasti,Urban,100,37.5,10.0,63.0
+539,Balrampur,Rural,100,56.7,6.7,10.2
+540,Balrampur,Total,100,55.5,6.5,15.0
+541,Balrampur,Urban,100,40.5,4.1,71.9
+542,Gonda,Rural,100,51.1,11.3,7.9
+543,Gonda,Total,100,49.9,10.9,12.5
+544,Gonda,Urban,100,32.5,4.4,77.1
+545,Siddharthnagar,Rural,100,44.8,6.6,10.4
+546,Siddharthnagar,Total,100,44.2,6.5,12.7
+547,Siddharthnagar,Urban,100,35.4,5.2,46.9
+548,Basti,Rural,100,40.3,10.0,13.1
+549,Basti,Total,100,40.1,9.8,16.4
+550,Basti,Urban,100,35.7,6.8,72.1
+551,Sant Kabir Nagar,Rural,100,43.4,10.2,12.3
+552,Sant Kabir Nagar,Total,100,43.0,9.9,15.0
+553,Sant Kabir Nagar,Urban,100,37.9,6.4,49.7
+554,Mahrajganj,Rural,100,51.4,8.8,16.7
+555,Mahrajganj,Total,100,50.8,8.7,18.8
+556,Mahrajganj,Urban,100,39.3,5.8,58.4
+557,Gorakhpur,Rural,100,46.8,8.9,18.6
+558,Gorakhpur,Total,100,43.8,7.9,30.7
+559,Gorakhpur,Urban,100,31.6,3.7,80.4
+560,Kushinagar,Rural,100,55.9,8.5,14.8
+561,Kushinagar,Total,100,55.1,8.5,17.0
+562,Kushinagar,Urban,100,38.7,9.4,62.3
+563,Deoria,Rural,100,46.5,8.5,16.7
+564,Deoria,Total,100,45.3,8.3,21.2
+565,Deoria,Urban,100,33.6,6.6,62.4
+566,Azamgarh,Rural,100,48.3,9.0,16.8
+567,Azamgarh,Total,100,47.4,8.7,20.5
+568,Azamgarh,Urban,100,37.4,4.8,64.6
+569,Mau,Rural,100,47.2,10.1,17.6
+570,Mau,Total,100,46.5,9.4,27.4
+571,Mau,Urban,100,44.1,6.8,63.5
+572,Ballia,Rural,100,47.7,12.8,22.2
+573,Ballia,Total,100,46.6,12.4,25.9
+574,Ballia,Urban,100,36.1,9.3,61.0
+575,Jaunpur,Rural,100,46.1,7.2,15.4
+576,Jaunpur,Total,100,46.0,7.0,19.8
+577,Jaunpur,Urban,100,44.5,4.4,71.8
+578,Ghazipur,Rural,100,51.2,10.4,18.6
+579,Ghazipur,Total,100,50.2,10.2,22.1
+580,Ghazipur,Urban,100,38.4,7.3,65.5
+581,Chandauli,Rural,100,49.0,6.8,18.8
+582,Chandauli,Total,100,47.5,6.6,25.3
+583,Chandauli,Urban,100,36.8,4.6,69.2
+584,Varanasi,Rural,100,47.6,6.7,27.1
+585,Varanasi,Total,100,42.4,5.3,54.5
+586,Varanasi,Urban,100,35.8,3.5,89.0
+587,Sant Ravidas Nagar (Bhadohi),Rural,100,47.7,6.2,12.6
+588,Sant Ravidas Nagar (Bhadohi),Total,100,47.2,6.1,18.8
+589,Sant Ravidas Nagar (Bhadohi),Urban,100,44.0,5.7,55.6
+590,Mirzapur,Rural,100,51.6,4.8,19.2
+591,Mirzapur,Total,100,50.1,4.6,26.2
+592,Mirzapur,Urban,100,40.7,3.5,68.5
+593,Sonbhadra,Rural,100,55.8,1.8,13.7
+594,Sonbhadra,Total,100,51.9,2.3,24.1
+595,Sonbhadra,Urban,100,34.4,4.7,70.7
+596,Etah,Rural,100,56.6,7.0,9.2
+597,Etah,Total,100,54.6,6.4,19.8
+598,Etah,Urban,100,43.4,3.1,78.3
+599,Kanshiram Nagar,Rural,100,61.5,8.9,11.2
+600,Kanshiram Nagar,Total,100,59.3,8.0,24.0
+601,Kanshiram Nagar,Urban,100,50.1,4.4,76.9
+602,Pashchim Champaran,Rural,100,63.3,4.9,11.5
+603,Pashchim Champaran,Total,100,62.1,5.2,15.9
+604,Pashchim Champaran,Urban,100,51.9,7.4,53.9
+605,Purba Champaran,Rural,100,56.0,5.6,15.5
+606,Purba Champaran,Total,100,55.1,5.6,18.2
+607,Purba Champaran,Urban,100,42.9,5.7,54.0
+608,Sheohar,Rural,100,59.6,3.4,19.8
+609,Sheohar,Total,100,59.0,3.6,20.4
+610,Sheohar,Urban,100,45.0,8.0,36.9
+611,Sitamarhi,Rural,100,58.7,6.2,18.7
+612,Sitamarhi,Total,100,57.9,6.2,20.8
+613,Sitamarhi,Urban,100,41.8,6.5,60.5
+614,Madhubani,Rural,100,50.8,4.7,17.3
+615,Madhubani,Total,100,50.5,4.8,18.5
+616,Madhubani,Urban,100,42.7,7.1,55.5
+617,Supaul,Rural,100,62.1,4.9,9.1
+618,Supaul,Total,100,61.7,5.0,10.8
+619,Supaul,Urban,100,51.8,7.8,46.8
+620,Araria,Rural,100,64.4,3.7,6.7
+621,Araria,Total,100,63.5,3.8,9.4
+622,Araria,Urban,100,48.5,6.4,54.3
+623,Kishanganj,Rural,100,62.2,3.5,6.2
+624,Kishanganj,Total,100,60.8,3.9,10.4
+625,Kishanganj,Urban,100,46.4,7.9,51.9
+626,Purnia,Rural,100,65.1,5.1,8.6
+627,Purnia,Total,100,63.2,5.5,13.7
+628,Purnia,Urban,100,46.1,9.7,59.1
+629,Katihar,Rural,100,62.0,5.0,12.7
+630,Katihar,Total,100,60.3,5.1,17.5
+631,Katihar,Urban,100,42.3,7.1,68.5
+632,Madhepura,Rural,100,64.0,6.2,11.3
+633,Madhepura,Total,100,63.2,6.3,13.1
+634,Madhepura,Urban,100,45.9,8.7,51.3
+635,Saharsa,Rural,100,64.3,6.6,12.5
+636,Saharsa,Total,100,62.7,6.7,16.7
+637,Saharsa,Urban,100,43.1,7.4,67.6
+638,Darbhanga,Rural,100,52.8,8.1,20.9
+639,Darbhanga,Total,100,51.6,8.2,25.1
+640,Darbhanga,Urban,100,40.0,9.0,67.0
+641,Muzaffarpur,Rural,100,60.4,8.4,21.9
+642,Muzaffarpur,Total,100,58.1,8.3,27.1
+643,Muzaffarpur,Urban,100,36.2,6.8,77.1
+644,Gopalganj,Rural,100,53.1,8.0,18.1
+645,Gopalganj,Total,100,52.3,7.9,20.0
+646,Gopalganj,Urban,100,39.6,6.1,50.8
+647,Siwan,Rural,100,46.6,8.2,20.2
+648,Siwan,Total,100,46.0,8.1,22.9
+649,Siwan,Urban,100,34.4,6.1,71.4
+650,Saran,Rural,100,51.4,8.7,17.8
+651,Saran,Total,100,50.6,8.6,21.4
+652,Saran,Urban,100,41.5,7.9,59.0
+653,Vaishali,Rural,100,56.9,12.3,25.0
+654,Vaishali,Total,100,56.1,12.2,27.2
+655,Vaishali,Urban,100,44.6,10.6,62.0
+656,Samastipur,Rural,100,59.2,9.7,17.0
+657,Samastipur,Total,100,58.5,9.6,18.8
+658,Samastipur,Urban,100,38.6,6.5,70.2
+659,Begusarai,Rural,100,57.1,11.6,25.5
+660,Begusarai,Total,100,54.6,11.3,31.3
+661,Begusarai,Urban,100,43.5,9.8,57.7
+662,Khagaria,Rural,100,58.8,8.9,21.7
+663,Khagaria,Total,100,58.3,8.9,23.8
+664,Khagaria,Urban,100,47.3,7.2,66.3
+665,Bhagalpur,Rural,100,58.8,8.8,25.1
+666,Bhagalpur,Total,100,55.9,8.6,33.7
+667,Bhagalpur,Urban,100,42.8,7.7,71.7
+668,Banka,Rural,100,60.5,6.8,11.1
+669,Banka,Total,100,60.1,6.7,12.3
+670,Banka,Urban,100,46.9,5.1,44.8
+671,Munger,Rural,100,58.6,7.9,26.1
+672,Munger,Total,100,53.5,7.6,38.8
+673,Munger,Urban,100,39.2,6.7,74.2
+674,Lakhisarai,Rural,100,58.9,7.7,26.8
+675,Lakhisarai,Total,100,57.9,7.8,31.8
+676,Lakhisarai,Urban,100,52.3,8.4,61.6
+677,Sheikhpura,Rural,100,60.0,9.4,24.3
+678,Sheikhpura,Total,100,57.5,9.1,28.9
+679,Sheikhpura,Urban,100,44.7,7.4,52.2
+680,Nalanda,Rural,100,59.6,9.5,22.8
+681,Nalanda,Total,100,56.8,9.2,30.7
+682,Nalanda,Urban,100,41.8,7.1,73.6
+683,Patna,Rural,100,58.4,9.1,27.6
+684,Patna,Total,100,46.6,7.4,53.0
+685,Patna,Urban,100,31.0,5.2,86.5
+686,Bhojpur,Rural,100,57.8,8.7,20.5
+687,Bhojpur,Total,100,55.5,8.6,27.2
+688,Bhojpur,Urban,100,41.1,8.2,68.6
+689,Buxar,Rural,100,56.8,10.5,20.0
+690,Buxar,Total,100,55.1,10.3,24.7
+691,Buxar,Urban,100,39.6,8.8,67.2
+692,Kaimur (Bhabua),Rural,100,60.3,6.5,14.5
+693,Kaimur (Bhabua),Total,100,59.2,6.4,16.7
+694,Kaimur (Bhabua),Urban,100,33.5,4.6,70.2
+695,Rohtas,Rural,100,57.7,6.4,21.1
+696,Rohtas,Total,100,55.3,6.3,28.2
+697,Rohtas,Urban,100,41.8,5.9,68.4
+698,Aurangabad,Rural,100,57.8,6.6,17.2
+699,Aurangabad,Total,100,56.3,6.5,21.8
+700,Aurangabad,Urban,100,41.1,5.4,68.0
+701,Gaya,Rural,100,62.8,7.9,16.5
+702,Gaya,Total,100,59.4,7.5,24.2
+703,Gaya,Urban,100,36.0,4.7,77.8
+704,Nawada,Rural,100,62.3,10.3,17.3
+705,Nawada,Total,100,60.2,9.9,22.3
+706,Nawada,Urban,100,39.7,6.4,69.3
+707,Jamui,Rural,100,64.2,8.0,11.9
+708,Jamui,Total,100,63.0,8.0,14.8
+709,Jamui,Urban,100,48.9,8.5,48.9
+710,Jehanabad,Rural,100,61.2,9.1,22.3
+711,Jehanabad,Total,100,58.5,8.8,27.8
+712,Jehanabad,Urban,100,39.2,6.9,67.7
+713,Arwal,Rural,100,61.9,7.8,22.5
+714,Arwal,Total,100,61.2,7.7,23.7
+715,Arwal,Urban,100,51.7,6.1,39.0
+716,North  District,Rural,100,45.3,3.7,75.0
+717,North  District,Total,100,42.7,3.5,77.4
+718,North  District,Urban,100,20.3,1.8,97.3
+719,West District,Rural,100,51.6,7.9,84.1
+720,West District,Total,100,50.2,7.8,84.3
+721,West District,Urban,100,15.4,6.6,89.3
+722,South District,Rural,100,45.3,5.9,84.9
+723,South District,Total,100,40.5,5.1,86.9
+724,South District,Urban,100,15.3,0.9,97.9
+725,East District,Rural,100,41.6,7.5,85.8
+726,East District,Total,100,30.6,4.8,90.1
+727,East District,Urban,100,18.4,1.7,94.9
+728,Tawang,Rural,100,46.9,4.1,69.4
+729,Tawang,Total,100,43.2,3.5,74.1
+730,Tawang,Urban,100,25.0,0.6,97.5
+731,West Kameng,Rural,100,48.3,2.5,38.9
+732,West Kameng,Total,100,46.8,2.6,50.3
+733,West Kameng,Urban,100,41.7,3.0,87.4
+734,East Kameng,Rural,100,58.2,2.6,22.0
+735,East Kameng,Total,100,55.6,2.5,32.2
+736,East Kameng,Urban,100,47.3,2.5,64.0
+737,Papum Pare,Rural,100,44.3,4.0,54.8
+738,Papum Pare,Total,100,36.6,3.7,76.8
+739,Papum Pare,Urban,100,31.4,3.5,91.7
+740,Upper Subansiri,Rural,100,62.9,2.5,34.4
+741,Upper Subansiri,Total,100,58.9,2.3,42.8
+742,Upper Subansiri,Urban,100,38.5,1.2,85.1
+743,West Siang,Rural,100,41.2,0.8,71.1
+744,West Siang,Total,100,38.4,1.1,77.2
+745,West Siang,Urban,100,30.0,2.1,95.6
+746,East Siang,Rural,100,28.0,1.5,47.4
+747,East Siang,Total,100,37.2,2.4,61.5
+748,East Siang,Urban,100,56.4,4.3,90.7
+749,Upper Siang,Rural,100,29.2,0.4,56.3
+750,Upper Siang,Total,100,33.1,0.6,61.4
+751,Upper Siang,Urban,100,47.5,1.1,80.2
+752,Changlang,Rural,100,49.8,1.7,65.3
+753,Changlang,Total,100,48.2,1.6,69.0
+754,Changlang,Urban,100,38.3,0.8,91.3
+755,Tirap,Rural,100,43.3,1.0,85.6
+756,Tirap,Total,100,44.1,1.1,86.9
+757,Tirap,Urban,100,47.2,1.5,91.9
+758,Lower Subansiri,Rural,100,40.2,1.5,68.1
+759,Lower Subansiri,Total,100,37.0,1.3,74.2
+760,Lower Subansiri,Urban,100,24.5,0.7,98.5
+761,Kurung Kumey,Rural,100,44.7,12.5,23.5
+762,Kurung Kumey,Total,100,44.8,12.3,25.5
+763,Kurung Kumey,Urban,100,49.7,5.1,80.6
+764,Dibang Valley,Rural,100,49.7,7.2,64.7
+765,Dibang Valley,Total,100,49.4,6.7,70.1
+766,Dibang Valley,Urban,100,48.8,5.6,82.2
+767,Lower Dibang Valley,Rural,100,52.7,3.2,48.0
+768,Lower Dibang Valley,Total,100,48.5,3.3,56.4
+769,Lower Dibang Valley,Urban,100,32.3,3.7,88.6
+770,Lohit,Rural,100,54.1,6.0,49.5
+771,Lohit,Total,100,52.4,5.4,58.9
+772,Lohit,Urban,100,46.7,3.6,89.2
+773,Anjaw,Rural,100,52.8,6.0,27.7
+774,Anjaw,Total,100,53.3,5.8,28.7
+775,Anjaw,Urban,100,68.3,0.0,64.2
+776,Mon,Rural,100,64.0,1.4,62.7
+777,Mon,Total,100,61.9,2.0,66.9
+778,Mon,Urban,100,48.7,5.6,94.2
+779,Mokokchung,Rural,100,34.1,0.5,96.3
+780,Mokokchung,Total,100,33.8,0.6,97.0
+781,Mokokchung,Urban,100,33.0,0.7,98.5
+782,Zunheboto,Rural,100,44.2,1.7,71.7
+783,Zunheboto,Total,100,42.9,1.5,75.4
+784,Zunheboto,Urban,100,36.1,0.2,94.4
+785,Wokha,Rural,100,51.6,1.0,59.5
+786,Wokha,Total,100,46.0,0.9,66.5
+787,Wokha,Urban,100,21.7,0.2,96.7
+788,Dimapur,Rural,100,44.7,3.2,91.6
+789,Dimapur,Total,100,39.3,2.6,94.4
+790,Dimapur,Urban,100,34.6,2.1,96.8
+791,Phek,Rural,100,54.4,2.4,75.4
+792,Phek,Total,100,52.4,2.1,77.8
+793,Phek,Urban,100,38.9,0.4,93.6
+794,Tuensang,Rural,100,55.0,3.4,49.8
+795,Tuensang,Total,100,54.8,3.4,56.6
+796,Tuensang,Urban,100,53.9,3.1,88.8
+797,Longleng,Rural,100,66.1,2.2,69.0
+798,Longleng,Total,100,65.8,2.7,69.9
+799,Longleng,Urban,100,63.7,5.6,75.7
+800,Kiphire,Rural,100,57.2,1.0,36.6
+801,Kiphire,Total,100,51.5,0.9,48.1
+802,Kiphire,Urban,100,27.8,0.4,95.3
+803,Kohima,Rural,100,33.6,0.6,52.2
+804,Kohima,Total,100,32.8,1.2,71.8
+805,Kohima,Urban,100,31.9,1.9,92.0
+806,Peren,Rural,100,53.0,0.9,77.1
+807,Peren,Total,100,54.2,1.1,79.5
+808,Peren,Urban,100,61.1,2.1,92.9
+809,Senapati,Rural,100,59.7,2.2,72.5
+810,Senapati,Total,100,59.7,2.1,73.0
+811,Senapati,Urban,100,63.4,1.8,97.6
+812,Tamenglong,Rural,100,56.6,8.4,66.4
+813,Tamenglong,Total,100,56.3,8.6,70.6
+814,Tamenglong,Urban,100,54.7,10.4,96.7
+815,Churachandpur,Rural,100,53.6,2.3,82.3
+816,Churachandpur,Total,100,53.5,2.3,83.4
+817,Churachandpur,Urban,100,52.5,2.3,98.8
+818,Bishnupur,Rural,100,34.7,5.9,91.1
+819,Bishnupur,Total,100,33.0,5.2,92.3
+820,Bishnupur,Urban,100,30.1,4.1,94.4
+821,Thoubal,Rural,100,33.5,5.5,91.7
+822,Thoubal,Total,100,31.1,5.4,92.6
+823,Thoubal,Urban,100,26.8,5.2,94.1
+824,Imphal West,Rural,100,33.1,5.3,92.0
+825,Imphal West,Total,100,31.5,4.7,94.9
+826,Imphal West,Urban,100,30.5,4.4,96.7
+827,Imphal East,Rural,100,36.4,4.6,90.9
+828,Imphal East,Total,100,34.4,4.0,92.8
+829,Imphal East,Urban,100,31.5,3.2,95.5
+830,Ukhrul,Rural,100,70.4,5.2,80.4
+831,Ukhrul,Total,100,68.5,5.0,82.6
+832,Ukhrul,Urban,100,56.4,4.2,96.1
+833,Chandel,Rural,100,58.4,4.1,77.1
+834,Chandel,Total,100,56.4,5.4,79.3
+835,Chandel,Urban,100,40.7,15.6,96.9
+836,Mamit,Rural,100,49.7,5.9,83.1
+837,Mamit,Total,100,44.5,5.0,85.9
+838,Mamit,Urban,100,21.4,1.0,98.7
+839,Kolasib,Rural,100,47.1,2.2,95.7
+840,Kolasib,Total,100,42.3,2.3,96.2
+841,Kolasib,Urban,100,38.5,2.4,96.6
+842,Aizawl,Rural,100,34.6,1.7,97.4
+843,Aizawl,Total,100,20.4,0.9,98.9
+844,Aizawl,Urban,100,16.6,0.7,99.3
+845,Champhai,Rural,100,48.2,4.8,94.9
+846,Champhai,Total,100,46.7,3.5,95.9
+847,Champhai,Urban,100,44.4,1.5,97.4
+848,Serchhip,Rural,100,52.0,6.2,96.4
+849,Serchhip,Total,100,49.3,7.9,97.9
+850,Serchhip,Urban,100,46.6,9.6,99.4
+851,Lunglei,Rural,100,49.8,3.9,80.5
+852,Lunglei,Total,100,40.0,2.6,87.6
+853,Lunglei,Urban,100,26.8,0.8,97.2
+854,Lawngtlai,Rural,100,49.7,5.2,60.5
+855,Lawngtlai,Total,100,47.1,4.6,66.9
+856,Lawngtlai,Urban,100,34.6,1.6,98.3
+857,Saiha,Rural,100,32.4,5.2,87.0
+858,Saiha,Total,100,30.9,4.0,91.5
+859,Saiha,Urban,100,28.7,2.3,97.6
+860,West Tripura,Rural,100,41.4,4.0,85.2
+861,West Tripura,Total,100,37.6,3.8,90.5
+862,West Tripura,Urban,100,32.2,3.6,98.1
+863,South Tripura,Rural,100,42.9,4.5,82.6
+864,South Tripura,Total,100,40.5,4.4,85.0
+865,South Tripura,Urban,100,27.4,3.6,98.0
+866,Dhalai,Rural,100,47.5,7.2,66.4
+867,Dhalai,Total,100,46.6,7.4,70.0
+868,Dhalai,Urban,100,40.0,9.0,96.4
+869,North Tripura,Rural,100,48.4,8.3,81.5
+870,North Tripura,Total,100,45.8,8.0,84.4
+871,North Tripura,Urban,100,34.4,7.1,97.0
+872,West Garo Hills,Rural,100,49.0,5.5,56.3
+873,West Garo Hills,Total,100,47.3,5.6,60.6
+874,West Garo Hills,Urban,100,34.1,6.3,93.9
+875,East Garo Hills,Rural,100,48.9,3.6,79.3
+876,East Garo Hills,Total,100,48.0,3.3,81.7
+877,East Garo Hills,Urban,100,42.3,1.2,96.7
+878,South Garo Hills,Rural,100,51.2,4.0,63.4
+879,South Garo Hills,Total,100,50.3,3.8,65.7
+880,South Garo Hills,Urban,100,41.9,2.7,87.4
+881,West Khasi Hills,Rural,100,56.1,9.2,40.8
+882,West Khasi Hills,Total,100,55.0,8.7,46.4
+883,West Khasi Hills,Urban,100,46.8,4.6,90.5
+884,Ribhoi,Rural,100,53.9,5.9,64.1
+885,Ribhoi,Total,100,52.3,5.7,66.4
+886,Ribhoi,Urban,100,34.1,3.1,91.4
+887,East Khasi Hills,Rural,100,52.9,9.3,44.3
+888,East Khasi Hills,Total,100,39.0,5.9,69.2
+889,East Khasi Hills,Urban,100,23.5,2.1,96.9
+890,Jaintia Hills,Rural,100,46.4,8.4,43.6
+891,Jaintia Hills,Total,100,43.9,7.9,47.7
+892,Jaintia Hills,Urban,100,14.0,2.1,96.1
+893,Kokrajhar,Rural,100,55.0,13.0,24.9
+894,Kokrajhar,Total,100,53.0,12.4,29.2
+895,Kokrajhar,Urban,100,24.8,4.7,90.1
+896,Dhubri,Rural,100,64.2,17.6,39.0
+897,Dhubri,Total,100,61.6,17.0,43.3
+898,Dhubri,Urban,100,39.8,12.2,80.1
+899,Goalpara,Rural,100,60.4,12.6,62.1
+900,Goalpara,Total,100,58.4,11.9,65.5
+901,Goalpara,Urban,100,46.4,8.0,85.0
+902,Barpeta,Rural,100,63.2,18.8,69.8
+903,Barpeta,Total,100,60.5,17.7,71.9
+904,Barpeta,Urban,100,33.8,7.4,92.8
+905,Morigaon,Rural,100,62.5,14.8,57.2
+906,Morigaon,Total,100,60.7,14.3,60.1
+907,Morigaon,Urban,100,42.8,9.2,90.3
+908,Nagaon,Rural,100,59.3,13.8,72.0
+909,Nagaon,Total,100,57.1,12.6,75.3
+910,Nagaon,Urban,100,43.7,5.9,95.2
+911,Sonitpur,Rural,100,58.1,10.2,55.0
+912,Sonitpur,Total,100,55.4,9.6,59.2
+913,Sonitpur,Urban,100,32.2,4.5,95.0
+914,Lakhimpur,Rural,100,64.8,9.7,53.7
+915,Lakhimpur,Total,100,61.9,9.2,58.0
+916,Lakhimpur,Urban,100,37.7,5.5,94.7
+917,Dhemaji,Rural,100,66.2,10.0,40.3
+918,Dhemaji,Total,100,64.7,9.7,44.8
+919,Dhemaji,Urban,100,48.3,7.2,95.6
+920,Tinsukia,Rural,100,56.0,5.0,77.3
+921,Tinsukia,Total,100,51.9,5.0,81.1
+922,Tinsukia,Urban,100,37.1,5.0,94.5
+923,Dibrugarh,Rural,100,54.2,5.7,74.2
+924,Dibrugarh,Total,100,49.3,5.4,78.7
+925,Dibrugarh,Urban,100,29.7,4.1,96.4
+926,Sivasagar,Rural,100,60.3,6.1,71.9
+927,Sivasagar,Total,100,57.7,5.9,74.2
+928,Sivasagar,Urban,100,36.4,3.9,93.2
+929,Jorhat,Rural,100,60.9,8.1,58.9
+930,Jorhat,Total,100,55.2,7.2,66.7
+931,Jorhat,Urban,100,35.3,4.0,94.2
+932,Golaghat,Rural,100,64.0,7.9,65.1
+933,Golaghat,Total,100,61.5,7.5,68.4
+934,Golaghat,Urban,100,38.7,4.2,97.7
+935,Karbi Anglong,Rural,100,65.1,4.3,48.5
+936,Karbi Anglong,Total,100,63.3,4.2,54.8
+937,Karbi Anglong,Urban,100,52.0,3.6,94.5
+938,Dima Hasao,Rural,100,62.4,4.5,57.1
+939,Dima Hasao,Total,100,57.0,4.1,69.4
+940,Dima Hasao,Urban,100,45.2,3.3,96.6
+941,Cachar,Rural,100,56.9,12.2,77.6
+942,Cachar,Total,100,53.2,11.1,81.0
+943,Cachar,Urban,100,37.2,6.1,95.8
+944,Karimganj,Rural,100,57.6,14.9,83.7
+945,Karimganj,Total,100,55.6,14.3,85.0
+946,Karimganj,Urban,100,36.1,8.7,97.4
+947,Hailakandi,Rural,100,59.5,16.8,81.9
+948,Hailakandi,Total,100,57.4,16.1,83.1
+949,Hailakandi,Urban,100,30.5,7.6,98.1
+950,Bongaigaon,Rural,100,64.3,12.5,49.2
+951,Bongaigaon,Total,100,58.4,11.1,56.4
+952,Bongaigaon,Urban,100,29.0,4.3,91.6
+953,Chirang,Rural,100,57.5,10.9,24.0
+954,Chirang,Total,100,56.1,11.2,28.7
+955,Chirang,Urban,100,39.5,14.8,84.9
+956,Kamrup,Rural,100,59.1,12.3,57.0
+957,Kamrup,Total,100,57.7,11.9,59.2
+958,Kamrup,Urban,100,45.1,8.5,78.7
+959,Kamrup Metropolitan,Rural,100,52.4,10.1,64.7
+960,Kamrup Metropolitan,Total,100,31.0,4.8,92.3
+961,Kamrup Metropolitan,Urban,100,27.3,3.9,97.0
+962,Nalbari,Rural,100,61.0,9.5,63.7
+963,Nalbari,Total,100,59.0,9.4,66.7
+964,Nalbari,Urban,100,43.3,8.5,90.1
+965,Baksa,Rural,100,64.3,11.2,38.7
+966,Baksa,Total,100,64.2,11.2,39.4
+967,Baksa,Urban,100,53.2,7.5,94.1
+968,Darrang,Rural,100,57.6,17.8,47.6
+969,Darrang,Total,100,56.0,17.2,50.6
+970,Darrang,Urban,100,34.4,8.6,91.8
+971,Udalguri,Rural,100,59.9,10.7,41.5
+972,Udalguri,Total,100,58.6,10.5,43.9
+973,Udalguri,Urban,100,35.3,7.2,89.8
+974,Darjiling,Rural,100,54.2,8.0,52.3
+975,Darjiling,Total,100,45.5,7.0,65.7
+976,Darjiling,Urban,100,31.7,5.3,87.0
+977,Jalpaiguri,Rural,100,57.8,16.0,37.1
+978,Jalpaiguri,Total,100,52.0,14.5,49.7
+979,Jalpaiguri,Urban,100,37.2,10.5,82.3
+980,Koch Bihar,Rural,100,57.7,12.6,55.7
+981,Koch Bihar,Total,100,55.2,12.1,59.2
+982,Koch Bihar,Urban,100,33.9,7.9,90.3
+983,Uttar Dinajpur,Rural,100,57.9,12.4,20.6
+984,Uttar Dinajpur,Total,100,55.8,12.6,27.5
+985,Uttar Dinajpur,Urban,100,40.0,14.6,80.6
+986,Dakshin Dinajpur,Rural,100,57.6,11.9,27.5
+987,Dakshin Dinajpur,Total,100,54.2,11.5,36.8
+988,Dakshin Dinajpur,Urban,100,34.3,9.3,91.6
+989,Maldah,Rural,100,59.0,11.3,25.4
+990,Maldah,Total,100,57.6,10.9,31.7
+991,Maldah,Urban,100,48.5,8.3,74.3
+992,Murshidabad,Rural,100,56.1,17.0,34.7
+993,Murshidabad,Total,100,54.7,16.0,39.5
+994,Murshidabad,Urban,100,48.5,11.6,61.8
+995,Birbhum,Rural,100,52.0,15.6,18.7
+996,Birbhum,Total,100,50.2,14.8,24.1
+997,Birbhum,Urban,100,37.3,9.3,61.6
+998,Barddhaman,Rural,100,51.8,9.4,46.1
+999,Barddhaman,Total,100,46.7,8.3,55.7
+1000,Barddhaman,Urban,100,38.2,6.3,71.5
+1001,Nadia,Rural,100,53.9,15.6,71.3
+1002,Nadia,Total,100,50.3,14.1,77.6
+1003,Nadia,Urban,100,41.2,10.6,93.3
+1004,North Twenty Four Parganas,Rural,100,46.3,19.7,78.9
+1005,North Twenty Four Parganas,Total,100,39.0,11.6,87.5
+1006,North Twenty Four Parganas,Urban,100,33.4,5.4,94.0
+1007,Hugli,Rural,100,45.5,11.7,60.1
+1008,Hugli,Total,100,40.9,9.2,71.2
+1009,Hugli,Urban,100,33.7,5.3,88.8
+1010,Bankura,Rural,100,52.4,11.7,16.5
+1011,Bankura,Total,100,51.2,11.5,20.3
+1012,Bankura,Urban,100,38.8,8.9,60.4
+1013,Puruliya,Rural,100,62.7,7.4,6.1
+1014,Puruliya,Total,100,60.2,7.3,11.8
+1015,Puruliya,Urban,100,43.5,6.7,50.9
+1016,Haora,Rural,100,40.4,13.9,60.2
+1017,Haora,Total,100,37.1,9.2,74.7
+1018,Haora,Urban,100,35.2,6.5,83.5
+1019,Kolkata,Total,100,30.9,2.7,94.9
+1020,Kolkata,Urban,100,30.9,2.7,94.9
+1021,South Twenty Four Parganas,Rural,100,49.9,16.2,55.0
+1022,South Twenty Four Parganas,Total,100,46.9,14.0,62.6
+1023,South Twenty Four Parganas,Urban,100,38.5,8.1,83.1
+1024,Paschim Medinipur,Rural,100,52.2,13.2,41.9
+1025,Paschim Medinipur,Total,100,49.8,12.6,46.1
+1026,Paschim Medinipur,Urban,100,32.8,8.3,77.2
+1027,Purba Medinipur,Rural,100,49.0,18.1,85.6
+1028,Purba Medinipur,Total,100,47.5,17.2,85.3
+1029,Purba Medinipur,Urban,100,34.8,10.1,82.8
+1030,Garhwa,Rural,100,62.4,4.6,4.9
+1031,Garhwa,Total,100,61.4,4.7,7.1
+1032,Garhwa,Urban,100,44.5,6.8,46.3
+1033,Chatra,Rural,100,57.5,4.5,6.6
+1034,Chatra,Total,100,56.8,4.5,10.1
+1035,Chatra,Urban,100,46.4,4.1,65.7
+1036,Kodarma,Rural,100,52.3,4.2,7.6
+1037,Kodarma,Total,100,50.7,4.4,16.5
+1038,Kodarma,Urban,100,44.7,5.4,50.3
+1039,Giridih,Rural,100,53.6,3.1,5.8
+1040,Giridih,Total,100,52.1,3.1,10.8
+1041,Giridih,Urban,100,37.0,3.4,61.3
+1042,Deoghar,Rural,100,60.6,5.1,5.5
+1043,Deoghar,Total,100,56.5,5.0,16.4
+1044,Deoghar,Urban,100,37.4,4.2,68.3
+1045,Godda,Rural,100,62.7,9.2,7.9
+1046,Godda,Total,100,61.5,9.0,10.5
+1047,Godda,Urban,100,36.8,4.2,64.9
+1048,Sahibganj,Rural,100,65.1,7.3,9.2
+1049,Sahibganj,Total,100,62.6,7.3,15.3
+1050,Sahibganj,Urban,100,46.5,7.8,54.3
+1051,Pakur,Rural,100,59.9,7.1,7.3
+1052,Pakur,Total,100,59.0,7.0,10.2
+1053,Pakur,Urban,100,46.7,5.7,46.5
+1054,Dhanbad,Rural,100,52.2,4.7,12.2
+1055,Dhanbad,Total,100,47.7,4.2,39.8
+1056,Dhanbad,Urban,100,44.5,3.9,59.3
+1057,Bokaro,Rural,100,50.3,4.1,6.6
+1058,Bokaro,Total,100,43.8,3.6,33.5
+1059,Bokaro,Urban,100,36.7,3.2,62.7
+1060,Lohardaga,Rural,100,62.5,2.8,7.3
+1061,Lohardaga,Total,100,59.3,3.0,14.9
+1062,Lohardaga,Urban,100,36.2,4.4,70.5
+1063,Purbi Singhbhum,Rural,100,51.0,5.8,13.6
+1064,Purbi Singhbhum,Total,100,37.4,3.9,49.9
+1065,Purbi Singhbhum,Urban,100,25.8,2.3,80.7
+1066,Palamu,Rural,100,62.8,6.3,7.4
+1067,Palamu,Total,100,60.3,6.2,13.1
+1068,Palamu,Urban,100,40.1,5.4,58.3
+1069,Latehar,Rural,100,58.0,2.2,7.2
+1070,Latehar,Total,100,56.7,2.4,10.8
+1071,Latehar,Urban,100,40.6,5.0,55.8
+1072,Hazaribagh,Rural,100,48.5,3.3,9.3
+1073,Hazaribagh,Total,100,46.1,3.3,19.6
+1074,Hazaribagh,Urban,100,33.1,3.0,73.5
+1075,Ramgarh,Rural,100,50.1,3.8,11.0
+1076,Ramgarh,Total,100,45.5,3.7,32.9
+1077,Ramgarh,Urban,100,39.8,3.6,60.0
+1078,Dumka,Rural,100,63.9,6.0,6.2
+1079,Dumka,Total,100,62.0,5.9,9.8
+1080,Dumka,Urban,100,33.5,5.0,64.2
+1081,Jamtara,Rural,100,62.6,4.9,4.4
+1082,Jamtara,Total,100,59.8,4.7,9.8
+1083,Jamtara,Urban,100,33.5,3.3,60.1
+1084,Ranchi,Rural,100,55.0,3.0,13.2
+1085,Ranchi,Total,100,45.2,3.5,40.9
+1086,Ranchi,Urban,100,31.8,4.1,79.1
+1087,Khunti,Rural,100,57.7,3.4,4.0
+1088,Khunti,Total,100,56.0,3.4,8.4
+1089,Khunti,Urban,100,38.2,3.0,53.9
+1090,Gumla,Rural,100,63.3,2.9,6.4
+1091,Gumla,Total,100,61.7,3.0,10.3
+1092,Gumla,Urban,100,38.4,5.0,68.5
+1093,Simdega,Rural,100,59.6,2.9,4.9
+1094,Simdega,Total,100,58.2,3.0,8.2
+1095,Simdega,Urban,100,40.0,4.0,53.4
+1096,Pashchimi Singhbhum,Rural,100,50.9,4.0,3.7
+1097,Pashchimi Singhbhum,Total,100,49.0,4.1,11.8
+1098,Pashchimi Singhbhum,Urban,100,37.5,4.5,58.9
+1099,Saraikela-Kharsawan,Rural,100,53.5,3.6,6.4
+1100,Saraikela-Kharsawan,Total,100,49.5,3.6,20.3
+1101,Saraikela-Kharsawan,Urban,100,36.6,3.4,64.5
+1102,Bargarh,Rural,100,66.9,8.5,12.3
+1103,Bargarh,Total,100,65.1,8.1,16.1
+1104,Bargarh,Urban,100,46.7,4.7,54.2
+1105,Jharsuguda,Rural,100,71.5,5.9,9.4
+1106,Jharsuguda,Total,100,61.7,5.8,26.1
+1107,Jharsuguda,Urban,100,45.5,5.6,53.6
+1108,Sambalpur,Rural,100,69.7,7.8,8.6
+1109,Sambalpur,Total,100,61.7,7.0,22.9
+1110,Sambalpur,Urban,100,41.2,5.2,59.5
+1111,Debagarh,Rural,100,75.0,13.4,5.9
+1112,Debagarh,Total,100,74.1,12.9,9.2
+1113,Debagarh,Urban,100,62.3,5.5,51.3
+1114,Sundargarh,Rural,100,75.9,5.8,8.4
+1115,Sundargarh,Total,100,66.0,5.3,28.0
+1116,Sundargarh,Urban,100,46.9,4.4,65.5
+1117,Kendujhar,Rural,100,70.0,8.6,9.3
+1118,Kendujhar,Total,100,67.0,8.5,15.1
+1119,Kendujhar,Urban,100,48.8,7.7,50.8
+1120,Mayurbhanj,Rural,100,72.5,8.6,15.0
+1121,Mayurbhanj,Total,100,70.4,8.6,18.6
+1122,Mayurbhanj,Urban,100,43.8,8.1,64.0
+1123,Baleshwar,Rural,100,62.1,11.6,22.7
+1124,Baleshwar,Total,100,60.0,11.1,27.5
+1125,Baleshwar,Urban,100,42.2,7.2,68.0
+1126,Bhadrak,Rural,100,64.3,8.9,16.0
+1127,Bhadrak,Total,100,63.0,8.8,20.1
+1128,Bhadrak,Urban,100,52.7,7.4,51.8
+1129,Kendrapara,Rural,100,57.0,7.5,15.8
+1130,Kendrapara,Total,100,56.4,7.5,17.8
+1131,Kendrapara,Urban,100,44.6,8.8,57.8
+1132,Jagatsinghapur,Rural,100,57.3,7.1,22.1
+1133,Jagatsinghapur,Total,100,57.3,6.7,24.5
+1134,Jagatsinghapur,Urban,100,57.2,3.7,44.8
+1135,Cuttack,Rural,100,55.0,10.1,22.4
+1136,Cuttack,Total,100,50.4,9.2,36.3
+1137,Cuttack,Urban,100,36.6,6.4,78.0
+1138,Jajapur,Rural,100,57.8,14.6,19.9
+1139,Jajapur,Total,100,56.7,14.1,22.9
+1140,Jajapur,Urban,100,42.9,7.0,61.2
+1141,Dhenkanal,Rural,100,65.5,11.5,14.2
+1142,Dhenkanal,Total,100,63.4,11.2,18.3
+1143,Dhenkanal,Urban,100,41.8,7.6,59.8
+1144,Anugul,Rural,100,64.4,12.0,16.7
+1145,Anugul,Total,100,60.4,11.1,24.1
+1146,Anugul,Urban,100,38.8,6.6,64.0
+1147,Nayagarh,Rural,100,64.3,12.2,15.9
+1148,Nayagarh,Total,100,63.1,11.8,19.0
+1149,Nayagarh,Urban,100,48.5,7.6,55.8
+1150,Khordha,Rural,100,62.4,8.5,18.3
+1151,Khordha,Total,100,49.7,6.9,47.1
+1152,Khordha,Urban,100,36.6,5.1,76.6
+1153,Puri,Rural,100,64.1,11.2,15.6
+1154,Puri,Total,100,61.6,10.4,23.8
+1155,Puri,Urban,100,46.4,5.8,73.3
+1156,Ganjam,Rural,100,61.6,9.5,19.1
+1157,Ganjam,Total,100,57.1,8.6,28.5
+1158,Ganjam,Urban,100,39.9,5.2,65.3
+1159,Gajapati,Rural,100,67.0,5.9,12.7
+1160,Gajapati,Total,100,63.7,5.8,18.1
+1161,Gajapati,Urban,100,40.7,5.0,56.7
+1162,Kandhamal,Rural,100,68.8,6.6,6.3
+1163,Kandhamal,Total,100,66.7,6.6,11.1
+1164,Kandhamal,Urban,100,46.5,6.4,56.5
+1165,Baudh,Rural,100,75.1,4.7,9.0
+1166,Baudh,Total,100,74.3,4.7,10.8
+1167,Baudh,Urban,100,56.1,5.4,51.3
+1168,Subarnapur,Rural,100,74.0,7.2,7.9
+1169,Subarnapur,Total,100,73.0,7.1,10.3
+1170,Subarnapur,Urban,100,61.4,5.8,39.0
+1171,Balangir,Rural,100,68.6,7.0,10.1
+1172,Balangir,Total,100,66.3,7.0,15.1
+1173,Balangir,Urban,100,46.9,6.8,58.1
+1174,Nuapada,Rural,100,72.9,4.8,12.7
+1175,Nuapada,Total,100,71.9,4.9,14.5
+1176,Nuapada,Urban,100,52.7,6.5,48.4
+1177,Kalahandi,Rural,100,70.3,9.4,8.2
+1178,Kalahandi,Total,100,68.8,9.3,11.7
+1179,Kalahandi,Urban,100,47.8,6.9,58.8
+1180,Rayagada,Rural,100,69.7,5.7,6.6
+1181,Rayagada,Total,100,64.6,5.5,14.8
+1182,Rayagada,Urban,100,35.8,4.3,60.5
+1183,Nabarangapur,Rural,100,69.3,4.4,5.8
+1184,Nabarangapur,Total,100,67.9,4.4,9.3
+1185,Nabarangapur,Urban,100,51.4,4.9,53.4
+1186,Koraput,Rural,100,65.7,5.3,8.2
+1187,Koraput,Total,100,61.4,5.4,17.4
+1188,Koraput,Urban,100,38.9,5.6,64.9
+1189,Malkangiri,Rural,100,67.3,7.4,6.0
+1190,Malkangiri,Total,100,65.6,7.5,9.3
+1191,Malkangiri,Urban,100,45.7,8.4,47.7
+1192,Koriya,Rural,100,50.5,2.2,8.5
+1193,Koriya,Total,100,46.7,1.9,23.4
+1194,Koriya,Urban,100,37.5,1.3,59.3
+1195,Surguja,Rural,100,49.0,2.1,21.5
+1196,Surguja,Total,100,47.2,2.1,25.1
+1197,Surguja,Urban,100,29.4,1.6,61.3
+1198,Jashpur,Rural,100,41.9,1.8,11.8
+1199,Jashpur,Total,100,41.6,1.7,14.2
+1200,Jashpur,Urban,100,37.8,1.2,42.2
+1201,Raigarh,Rural,100,57.4,4.8,13.0
+1202,Raigarh,Total,100,54.6,4.6,19.3
+1203,Raigarh,Urban,100,37.8,3.0,57.3
+1204,Korba,Rural,100,54.4,3.2,11.9
+1205,Korba,Total,100,45.8,2.6,28.1
+1206,Korba,Urban,100,29.7,1.6,58.6
+1207,Janjgir - Champa,Rural,100,59.0,5.6,11.0
+1208,Janjgir - Champa,Total,100,57.1,5.4,15.2
+1209,Janjgir - Champa,Urban,100,43.8,3.8,44.4
+1210,Bilaspur,Rural,100,59.1,5.2,16.6
+1211,Bilaspur,Total,100,53.8,4.7,27.8
+1212,Bilaspur,Urban,100,36.1,3.1,65.7
+1213,Kabeerdham,Rural,100,60.9,6.2,9.0
+1214,Kabeerdham,Total,100,58.4,6.1,13.2
+1215,Kabeerdham,Urban,100,36.7,5.1,49.5
+1216,Rajnandgaon,Rural,100,47.7,3.4,18.5
+1217,Rajnandgaon,Total,100,44.9,3.2,25.0
+1218,Rajnandgaon,Urban,100,32.8,2.5,53.2
+1219,Durg,Rural,100,52.4,5.0,14.0
+1220,Durg,Total,100,43.5,3.9,33.0
+1221,Durg,Urban,100,29.6,2.2,62.6
+1222,Raipur,Rural,100,57.0,5.9,12.9
+1223,Raipur,Total,100,47.7,4.9,31.0
+1224,Raipur,Urban,100,30.1,2.9,65.0
+1225,Mahasamund,Rural,100,60.0,4.6,15.2
+1226,Mahasamund,Total,100,58.1,4.6,18.8
+1227,Mahasamund,Urban,100,41.2,4.1,50.1
+1228,Dhamtari,Rural,100,55.1,4.2,24.2
+1229,Dhamtari,Total,100,52.1,4.1,29.7
+1230,Dhamtari,Urban,100,39.2,3.5,53.6
+1231,Uttar Bastar Kanker,Rural,100,46.5,3.0,14.8
+1232,Uttar Bastar Kanker,Total,100,45.6,3.0,19.7
+1233,Uttar Bastar Kanker,Urban,100,37.8,3.2,60.9
+1234,Bastar,Rural,100,52.2,3.4,13.9
+1235,Bastar,Total,100,49.9,3.3,20.3
+1236,Bastar,Urban,100,35.4,2.9,61.0
+1237,Narayanpur,Rural,100,57.6,4.4,4.1
+1238,Narayanpur,Total,100,57.2,4.1,10.7
+1239,Narayanpur,Urban,100,55.3,2.2,44.2
+1240,Dakshin Bastar Dantewada,Rural,100,50.1,3.2,7.2
+1241,Dakshin Bastar Dantewada,Total,100,47.3,3.2,15.3
+1242,Dakshin Bastar Dantewada,Urban,100,35.3,2.9,49.8
+1243,Bijapur,Rural,100,56.5,4.2,2.7
+1244,Bijapur,Total,100,57.0,4.1,5.6
+1245,Bijapur,Urban,100,61.2,3.1,28.1
+1246,Sheopur,Rural,100,60.4,5.3,5.8
+1247,Sheopur,Total,100,57.6,5.0,12.9
+1248,Sheopur,Urban,100,40.6,3.2,57.2
+1249,Morena,Rural,100,53.5,5.2,6.7
+1250,Morena,Total,100,49.7,4.5,20.9
+1251,Morena,Urban,100,35.7,2.1,73.8
+1252,Bhind,Rural,100,51.6,4.6,9.3
+1253,Bhind,Total,100,49.0,4.1,23.0
+1254,Bhind,Urban,100,40.7,2.5,67.3
+1255,Gwalior,Rural,100,48.1,4.5,17.3
+1256,Gwalior,Total,100,35.2,3.0,59.8
+1257,Gwalior,Urban,100,26.9,2.0,87.0
+1258,Datia,Rural,100,46.7,2.7,11.3
+1259,Datia,Total,100,44.2,2.8,22.1
+1260,Datia,Urban,100,34.8,3.0,63.1
+1261,Shivpuri,Rural,100,54.3,4.2,5.6
+1262,Shivpuri,Total,100,50.9,4.0,14.6
+1263,Shivpuri,Urban,100,31.5,2.8,65.7
+1264,Tikamgarh,Rural,100,44.7,2.9,3.9
+1265,Tikamgarh,Total,100,42.9,2.8,10.2
+1266,Tikamgarh,Urban,100,32.9,2.7,45.2
+1267,Chhatarpur,Rural,100,45.2,2.6,5.2
+1268,Chhatarpur,Total,100,42.1,2.4,15.3
+1269,Chhatarpur,Urban,100,29.1,1.6,57.9
+1270,Panna,Rural,100,47.5,3.0,5.0
+1271,Panna,Total,100,46.3,2.9,10.2
+1272,Panna,Urban,100,36.0,2.3,53.8
+1273,Sagar,Rural,100,51.6,4.7,11.2
+1274,Sagar,Total,100,46.5,4.1,25.1
+1275,Sagar,Urban,100,32.1,2.5,64.7
+1276,Damoh,Rural,100,54.1,5.0,5.9
+1277,Damoh,Total,100,50.7,4.6,14.4
+1278,Damoh,Urban,100,34.1,2.9,56.2
+1279,Satna,Rural,100,39.2,2.2,22.8
+1280,Satna,Total,100,36.3,2.2,29.8
+1281,Satna,Urban,100,23.4,2.3,60.5
+1282,Rewa,Rural,100,34.7,2.1,17.8
+1283,Rewa,Total,100,32.9,2.2,23.4
+1284,Rewa,Urban,100,21.8,2.4,59.5
+1285,Umaria,Rural,100,47.2,4.2,5.8
+1286,Umaria,Total,100,44.2,3.9,13.7
+1287,Umaria,Urban,100,28.3,2.1,55.2
+1288,Neemuch,Rural,100,46.3,2.8,13.2
+1289,Neemuch,Total,100,41.5,2.4,26.3
+1290,Neemuch,Urban,100,27.6,1.4,63.6
+1291,Mandsaur,Rural,100,49.7,2.3,13.3
+1292,Mandsaur,Total,100,45.8,2.2,24.0
+1293,Mandsaur,Urban,100,29.5,1.7,68.2
+1294,Ratlam,Rural,100,57.7,3.5,13.4
+1295,Ratlam,Total,100,49.3,2.9,32.8
+1296,Ratlam,Urban,100,27.5,1.4,82.8
+1297,Ujjain,Rural,100,54.9,3.8,17.9
+1298,Ujjain,Total,100,45.4,3.1,43.0
+1299,Ujjain,Urban,100,30.1,1.9,83.6
+1300,Shajapur,Rural,100,56.7,4.4,13.4
+1301,Shajapur,Total,100,52.2,4.0,23.1
+1302,Shajapur,Urban,100,32.1,2.4,66.7
+1303,Dewas,Rural,100,49.0,6.2,21.7
+1304,Dewas,Total,100,43.9,5.2,37.0
+1305,Dewas,Urban,100,30.5,2.6,77.3
+1306,Dhar,Rural,100,56.5,4.7,19.2
+1307,Dhar,Total,100,51.6,4.4,30.1
+1308,Dhar,Urban,100,30.7,3.0,76.4
+1309,Indore,Rural,100,41.4,4.6,41.5
+1310,Indore,Total,100,27.8,3.2,78.1
+1311,Indore,Urban,100,23.3,2.7,90.3
+1312,Khargone (West Nimar),Rural,100,56.9,6.3,13.0
+1313,Khargone (West Nimar),Total,100,52.7,5.8,22.4
+1314,Khargone (West Nimar),Urban,100,29.5,3.2,73.8
+1315,Barwani,Rural,100,60.2,5.2,10.3
+1316,Barwani,Total,100,56.7,5.0,18.9
+1317,Barwani,Urban,100,37.4,4.1,66.1
+1318,Rajgarh,Rural,100,60.4,6.5,7.8
+1319,Rajgarh,Total,100,56.6,6.0,15.9
+1320,Rajgarh,Urban,100,35.7,3.2,61.0
+1321,Vidisha,Rural,100,45.2,3.0,11.5
+1322,Vidisha,Total,100,42.0,2.8,24.7
+1323,Vidisha,Urban,100,30.6,2.1,71.5
+1324,Bhopal,Rural,100,46.6,4.3,21.5
+1325,Bhopal,Total,100,33.2,2.9,72.2
+1326,Bhopal,Urban,100,30.1,2.6,83.9
+1327,Sehore,Rural,100,43.6,6.6,21.7
+1328,Sehore,Total,100,41.4,5.9,31.9
+1329,Sehore,Urban,100,31.3,2.5,79.1
+1330,Raisen,Rural,100,46.4,7.2,18.5
+1331,Raisen,Total,100,44.3,6.5,30.1
+1332,Raisen,Urban,100,36.4,4.0,72.0
+1333,Betul,Rural,100,45.6,4.8,12.9
+1334,Betul,Total,100,42.5,4.4,24.8
+1335,Betul,Urban,100,30.3,3.0,71.6
+1336,Harda,Rural,100,42.2,7.7,38.3
+1337,Harda,Total,100,39.0,7.0,46.6
+1338,Harda,Urban,100,26.5,4.4,79.3
+1339,Hoshangabad,Rural,100,43.9,10.2,33.8
+1340,Hoshangabad,Total,100,39.2,8.1,48.3
+1341,Hoshangabad,Urban,100,28.7,3.4,80.6
+1342,Katni,Rural,100,46.5,4.4,8.6
+1343,Katni,Total,100,43.1,4.0,19.4
+1344,Katni,Urban,100,28.6,2.4,65.8
+1345,Jabalpur,Rural,100,46.2,5.7,26.8
+1346,Jabalpur,Total,100,37.1,4.2,55.7
+1347,Jabalpur,Urban,100,29.4,2.9,80.2
+1348,Narsimhapur,Rural,100,48.9,9.8,27.5
+1349,Narsimhapur,Total,100,46.3,9.2,35.2
+1350,Narsimhapur,Urban,100,33.7,5.9,71.8
+1351,Dindori,Rural,100,51.2,2.7,3.7
+1352,Dindori,Total,100,50.6,2.8,5.9
+1353,Dindori,Urban,100,37.7,5.5,55.3
+1354,Mandla,Rural,100,43.2,4.3,6.7
+1355,Mandla,Total,100,41.5,4.3,13.3
+1356,Mandla,Urban,100,28.6,4.0,65.1
+1357,Chhindwara,Rural,100,50.3,5.1,12.3
+1358,Chhindwara,Total,100,46.2,4.7,25.5
+1359,Chhindwara,Urban,100,33.5,3.7,66.3
+1360,Seoni,Rural,100,45.1,4.9,15.2
+1361,Seoni,Total,100,43.1,4.8,21.8
+1362,Seoni,Urban,100,27.7,3.5,73.9
+1363,Balaghat,Rural,100,38.3,5.4,11.7
+1364,Balaghat,Total,100,37.1,5.1,18.6
+1365,Balaghat,Urban,100,29.4,3.4,63.1
+1366,Guna,Rural,100,49.2,2.9,7.4
+1367,Guna,Total,100,45.4,3.0,19.8
+1368,Guna,Urban,100,33.6,3.3,59.6
+1369,Ashoknagar,Rural,100,44.0,2.7,7.0
+1370,Ashoknagar,Total,100,42.9,2.5,15.4
+1371,Ashoknagar,Urban,100,37.8,1.7,56.3
+1372,Shahdol,Rural,100,44.2,2.9,7.6
+1373,Shahdol,Total,100,41.5,2.9,17.5
+1374,Shahdol,Urban,100,29.2,2.7,63.7
+1375,Anuppur,Rural,100,36.8,1.9,4.4
+1376,Anuppur,Total,100,33.8,2.0,17.7
+1377,Anuppur,Urban,100,25.0,2.2,56.9
+1378,Sidhi,Rural,100,38.2,1.9,4.1
+1379,Sidhi,Total,100,37.3,1.9,7.5
+1380,Sidhi,Urban,100,26.8,1.5,49.0
+1381,Singrauli,Rural,100,44.4,1.9,2.2
+1382,Singrauli,Total,100,41.2,2.0,11.3
+1383,Singrauli,Urban,100,27.1,2.6,52.1
+1384,Jhabua,Rural,100,62.6,5.1,5.8
+1385,Jhabua,Total,100,59.5,4.8,11.7
+1386,Jhabua,Urban,100,25.5,1.8,76.8
+1387,Alirajpur,Rural,100,62.1,4.0,5.0
+1388,Alirajpur,Total,100,59.5,3.9,10.5
+1389,Alirajpur,Urban,100,29.8,2.6,75.3
+1390,Khandwa (East Nimar),Rural,100,52.4,8.0,17.4
+1391,Khandwa (East Nimar),Total,100,48.5,7.4,26.9
+1392,Khandwa (East Nimar),Urban,100,31.1,4.4,69.3
+1393,Burhanpur,Rural,100,48.4,6.4,18.5
+1394,Burhanpur,Total,100,46.2,5.6,35.1
+1395,Burhanpur,Urban,100,41.7,3.9,68.6
+1396,Kachchh,Rural,100,25.4,1.1,49.2
+1397,Kachchh,Total,100,23.9,1.1,63.0
+1398,Kachchh,Urban,100,21.4,1.0,87.9
+1399,Banas Kantha,Rural,100,38.8,4.0,17.1
+1400,Banas Kantha,Total,100,36.6,3.6,26.0
+1401,Banas Kantha,Urban,100,23.8,1.5,78.0
+1402,Patan,Rural,100,37.3,3.8,35.9
+1403,Patan,Total,100,34.7,3.3,46.1
+1404,Patan,Urban,100,25.5,1.5,82.4
+1405,Mahesana,Rural,100,32.8,2.6,44.4
+1406,Mahesana,Total,100,30.0,2.2,54.7
+1407,Mahesana,Urban,100,21.8,1.3,85.0
+1408,Sabar Kantha,Rural,100,41.1,2.1,31.1
+1409,Sabar Kantha,Total,100,38.9,2.0,38.2
+1410,Sabar Kantha,Urban,100,27.1,1.6,76.7
+1411,Gandhinagar,Rural,100,36.6,2.3,42.8
+1412,Gandhinagar,Total,100,31.2,1.8,59.6
+1413,Gandhinagar,Urban,100,24.4,1.3,80.8
+1414,Ahmadabad,Rural,100,40.5,2.0,32.9
+1415,Ahmadabad,Total,100,26.4,0.8,83.0
+1416,Ahmadabad,Urban,100,23.9,0.6,92.1
+1417,Surendranagar,Rural,100,36.4,2.3,20.8
+1418,Surendranagar,Total,100,32.7,2.0,35.3
+1419,Surendranagar,Urban,100,23.8,1.4,70.0
+1420,Rajkot,Rural,100,28.4,1.5,44.0
+1421,Rajkot,Total,100,24.5,1.2,69.4
+1422,Rajkot,Urban,100,21.9,1.1,86.5
+1423,Jamnagar,Rural,100,30.1,1.6,34.8
+1424,Jamnagar,Total,100,26.8,1.3,57.2
+1425,Jamnagar,Urban,100,23.0,1.0,83.8
+1426,Porbandar,Rural,100,30.4,2.3,39.1
+1427,Porbandar,Total,100,27.6,1.8,57.9
+1428,Porbandar,Urban,100,24.6,1.3,77.4
+1429,Junagadh,Rural,100,32.7,1.7,46.0
+1430,Junagadh,Total,100,29.7,1.6,59.6
+1431,Junagadh,Urban,100,23.9,1.4,85.7
+1432,Amreli,Rural,100,28.9,1.7,52.1
+1433,Amreli,Total,100,27.8,1.5,58.8
+1434,Amreli,Urban,100,24.7,1.0,78.4
+1435,Bhavnagar,Rural,100,33.2,1.5,32.1
+1436,Bhavnagar,Total,100,29.9,1.3,53.9
+1437,Bhavnagar,Urban,100,25.7,1.1,81.6
+1438,Anand,Rural,100,41.3,2.1,41.3
+1439,Anand,Total,100,36.7,1.9,54.0
+1440,Anand,Urban,100,26.1,1.3,83.0
+1441,Kheda,Rural,100,42.2,2.5,25.4
+1442,Kheda,Total,100,38.3,2.3,37.3
+1443,Kheda,Urban,100,25.0,1.5,78.5
+1444,Panch Mahals,Rural,100,50.4,2.6,17.0
+1445,Panch Mahals,Total,100,46.5,2.4,27.2
+1446,Panch Mahals,Urban,100,24.4,1.1,84.1
+1447,Dohad,Rural,100,59.5,2.1,6.1
+1448,Dohad,Total,100,55.7,2.0,13.1
+1449,Dohad,Urban,100,23.6,1.1,71.8
+1450,Vadodara,Rural,100,46.0,2.0,28.5
+1451,Vadodara,Total,100,32.3,1.4,61.7
+1452,Vadodara,Urban,100,19.9,0.8,91.9
+1453,Narmada,Rural,100,43.9,1.3,16.0
+1454,Narmada,Total,100,42.8,1.4,22.3
+1455,Narmada,Urban,100,33.7,1.9,74.7
+1456,Bharuch,Rural,100,38.2,1.5,45.8
+1457,Bharuch,Total,100,31.9,1.2,61.2
+1458,Bharuch,Urban,100,20.2,0.6,89.4
+1459,The Dangs,Rural,100,36.3,1.1,25.3
+1460,The Dangs,Total,100,35.4,1.0,28.4
+1461,The Dangs,Urban,100,26.8,0.7,57.8
+1462,Navsari,Rural,100,34.5,1.4,44.5
+1463,Navsari,Total,100,30.0,1.2,57.2
+1464,Navsari,Urban,100,20.0,0.9,85.7
+1465,Valsad,Rural,100,39.7,1.3,27.6
+1466,Valsad,Total,100,33.6,1.1,47.2
+1467,Valsad,Urban,100,24.6,0.9,76.0
+1468,Surat,Rural,100,30.9,1.2,49.9
+1469,Surat,Total,100,22.1,0.6,84.9
+1470,Surat,Urban,100,19.8,0.5,93.8
+1471,Tapi,Rural,100,36.3,1.0,23.0
+1472,Tapi,Total,100,35.7,1.0,28.1
+1473,Tapi,Urban,100,29.8,0.8,77.5
+1474,Diu,Rural,100,12.7,0.3,43.3
+1475,Diu,Total,100,11.7,0.2,58.8
+1476,Diu,Urban,100,10.7,0.2,74.7
+1477,Daman,Rural,100,26.4,0.9,57.3
+1478,Daman,Total,100,35.5,0.6,82.4
+1479,Daman,Urban,100,37.1,0.6,86.8
+1480,Dadra & Nagar Haveli,Rural,100,45.5,0.8,26.5
+1481,Dadra & Nagar Haveli,Total,100,32.7,0.5,54.7
+1482,Dadra & Nagar Haveli,Urban,100,20.8,0.2,81.3
+1483,Nandurbar,Rural,100,48.9,3.9,22.3
+1484,Nandurbar,Total,100,45.9,3.8,28.7
+1485,Nandurbar,Urban,100,29.2,3.3,63.5
+1486,Dhule,Rural,100,37.4,3.4,18.7
+1487,Dhule,Total,100,33.5,3.0,31.2
+1488,Dhule,Urban,100,22.7,1.6,65.3
+1489,Jalgaon,Rural,100,38.9,5.5,22.6
+1490,Jalgaon,Total,100,35.3,4.3,35.5
+1491,Jalgaon,Urban,100,27.1,1.7,64.9
+1492,Buldana,Rural,100,46.9,6.7,29.1
+1493,Buldana,Total,100,44.4,6.1,35.3
+1494,Buldana,Urban,100,34.4,3.5,60.9
+1495,Akola,Rural,100,47.5,7.1,30.9
+1496,Akola,Total,100,42.5,5.9,46.1
+1497,Akola,Urban,100,33.8,3.7,72.3
+1498,Washim,Rural,100,46.3,6.7,27.5
+1499,Washim,Total,100,44.6,6.0,33.8
+1500,Washim,Urban,100,35.7,2.6,67.3
+1501,Amravati,Rural,100,44.6,6.6,41.1
+1502,Amravati,Total,100,40.2,5.4,53.7
+1503,Amravati,Urban,100,31.3,2.9,78.6
+1504,Wardha,Rural,100,43.7,9.5,47.2
+1505,Wardha,Total,100,37.7,7.7,56.7
+1506,Wardha,Urban,100,24.0,3.7,78.4
+1507,Nagpur,Rural,100,39.0,8.3,46.1
+1508,Nagpur,Total,100,28.7,4.6,75.7
+1509,Nagpur,Urban,100,23.7,2.8,90.0
+1510,Bhandara,Rural,100,43.6,8.1,55.8
+1511,Bhandara,Total,100,40.1,7.2,61.2
+1512,Bhandara,Urban,100,25.0,3.4,84.3
+1513,Gondiya,Rural,100,40.3,5.2,47.5
+1514,Gondiya,Total,100,38.1,4.9,52.4
+1515,Gondiya,Urban,100,27.0,3.3,77.3
+1516,Gadchiroli,Rural,100,42.6,8.7,22.2
+1517,Gadchiroli,Total,100,40.9,8.1,27.0
+1518,Gadchiroli,Urban,100,27.0,4.0,65.9
+1519,Chandrapur,Rural,100,41.3,11.2,29.1
+1520,Chandrapur,Total,100,35.9,8.6,43.3
+1521,Chandrapur,Urban,100,25.2,3.4,71.7
+1522,Yavatmal,Rural,100,46.9,8.1,21.8
+1523,Yavatmal,Total,100,43.4,7.3,31.0
+1524,Yavatmal,Urban,100,29.3,3.9,68.2
+1525,Nanded,Rural,100,51.2,7.8,19.2
+1526,Nanded,Total,100,47.0,6.8,33.1
+1527,Nanded,Urban,100,35.0,4.0,73.2
+1528,Hingoli,Rural,100,46.7,6.0,26.9
+1529,Hingoli,Total,100,45.6,5.6,32.4
+1530,Hingoli,Urban,100,38.7,3.1,65.7
+1531,Parbhani,Rural,100,47.3,8.3,13.3
+1532,Parbhani,Total,100,44.0,7.2,28.8
+1533,Parbhani,Urban,100,35.8,4.4,66.9
+1534,Jalna,Rural,100,41.0,6.9,29.2
+1535,Jalna,Total,100,40.2,6.2,36.5
+1536,Jalna,Urban,100,36.5,3.1,70.2
+1537,Aurangabad,Rural,100,39.7,8.0,19.8
+1538,Aurangabad,Total,100,32.3,5.2,48.9
+1539,Aurangabad,Urban,100,22.6,1.4,87.4
+1540,Nashik,Rural,100,34.5,5.6,29.3
+1541,Nashik,Total,100,30.0,4.2,46.8
+1542,Nashik,Urban,100,24.3,2.5,69.1
+1543,Thane,Rural,100,36.8,5.8,39.7
+1544,Thane,Total,100,25.0,2.1,67.0
+1545,Thane,Urban,100,21.7,1.1,74.5
+1546,Mumbai Suburban,Total,100,27.1,1.4,54.7
+1547,Mumbai Suburban,Urban,100,27.1,1.4,54.7
+1548,Mumbai,Total,100,26.2,1.5,67.0
+1549,Mumbai,Urban,100,26.2,1.5,67.0
+1550,Raigarh,Rural,100,28.3,3.6,50.9
+1551,Raigarh,Total,100,24.4,2.6,62.0
+1552,Raigarh,Urban,100,17.7,1.1,81.0
+1553,Pune,Rural,100,23.9,4.9,61.8
+1554,Pune,Total,100,22.0,2.6,73.8
+1555,Pune,Urban,100,20.9,1.3,80.5
+1556,Ahmadnagar,Rural,100,30.6,7.4,39.1
+1557,Ahmadnagar,Total,100,29.1,6.4,46.1
+1558,Ahmadnagar,Urban,100,23.1,2.5,73.6
+1559,Bid,Rural,100,41.0,8.0,15.4
+1560,Bid,Total,100,39.2,7.1,25.1
+1561,Bid,Urban,100,30.8,2.9,69.1
+1562,Latur,Rural,100,40.1,5.7,24.8
+1563,Latur,Total,100,37.8,4.9,37.6
+1564,Latur,Urban,100,30.6,2.6,77.9
+1565,Osmanabad,Rural,100,38.2,6.2,22.2
+1566,Osmanabad,Total,100,37.2,5.6,27.7
+1567,Osmanabad,Urban,100,31.6,2.8,57.8
+1568,Solapur,Rural,100,29.6,7.8,32.1
+1569,Solapur,Total,100,30.0,5.9,41.3
+1570,Solapur,Urban,100,30.8,1.9,60.9
+1571,Satara,Rural,100,27.8,5.3,70.1
+1572,Satara,Total,100,26.4,4.8,71.1
+1573,Satara,Urban,100,20.7,2.7,75.4
+1574,Ratnagiri,Rural,100,28.7,4.1,67.2
+1575,Ratnagiri,Total,100,26.9,3.8,69.4
+1576,Ratnagiri,Urban,100,16.6,1.9,82.0
+1577,Sindhudurg,Rural,100,27.6,4.6,74.4
+1578,Sindhudurg,Total,100,27.2,4.4,75.9
+1579,Sindhudurg,Urban,100,23.8,3.0,86.8
+1580,Kolhapur,Rural,100,24.3,2.0,74.4
+1581,Kolhapur,Total,100,23.6,1.7,74.5
+1582,Kolhapur,Urban,100,22.2,1.2,74.7
+1583,Sangli,Rural,100,27.4,5.1,60.5
+1584,Sangli,Total,100,26.9,4.4,64.9
+1585,Sangli,Urban,100,25.3,2.4,77.6
+1586,Adilabad,Rural,100,35.7,6.5,13.8
+1587,Adilabad,Total,100,32.4,5.5,29.3
+1588,Adilabad,Urban,100,23.5,2.8,70.7
+1589,Nizamabad,Rural,100,31.8,4.3,29.4
+1590,Nizamabad,Total,100,30.4,3.8,41.6
+1591,Nizamabad,Urban,100,25.4,2.2,85.5
+1592,Karimnagar,Rural,100,32.4,5.1,34.2
+1593,Karimnagar,Total,100,29.7,4.3,46.2
+1594,Karimnagar,Urban,100,21.0,1.8,84.4
+1595,Medak,Rural,100,34.6,4.4,31.8
+1596,Medak,Total,100,31.0,3.7,44.1
+1597,Medak,Urban,100,19.4,1.2,84.6
+1598,Hyderabad,Total,100,19.1,0.9,98.5
+1599,Hyderabad,Urban,100,19.1,0.9,98.5
+1600,Rangareddy,Rural,100,25.5,2.2,43.5
+1601,Rangareddy,Total,100,18.8,1.1,81.4
+1602,Rangareddy,Urban,100,16.2,0.7,96.0
+1603,Mahbubnagar,Rural,100,30.8,6.2,17.9
+1604,Mahbubnagar,Total,100,29.2,5.6,26.4
+1605,Mahbubnagar,Urban,100,19.0,1.7,78.1
+1606,Nalgonda,Rural,100,34.2,5.9,31.9
+1607,Nalgonda,Total,100,32.5,5.2,40.6
+1608,Nalgonda,Urban,100,24.3,1.7,81.2
+1609,Warangal,Rural,100,38.8,8.5,29.7
+1610,Warangal,Total,100,34.8,7.0,43.7
+1611,Warangal,Urban,100,23.7,2.9,82.4
+1612,Khammam,Rural,100,33.9,5.2,37.4
+1613,Khammam,Total,100,31.3,4.5,48.2
+1614,Khammam,Urban,100,22.6,2.2,85.4
+1615,Srikakulam,Rural,100,32.1,3.5,12.8
+1616,Srikakulam,Total,100,30.4,3.2,21.2
+1617,Srikakulam,Urban,100,21.4,1.7,65.9
+1618,Vizianagaram,Rural,100,30.9,3.3,10.7
+1619,Vizianagaram,Total,100,28.7,3.0,22.0
+1620,Vizianagaram,Urban,100,20.0,1.9,66.4
+1621,Visakhapatnam,Rural,100,29.7,3.2,21.4
+1622,Visakhapatnam,Total,100,23.6,2.2,51.3
+1623,Visakhapatnam,Urban,100,17.0,1.1,83.5
+1624,East Godavari,Rural,100,30.4,3.9,47.0
+1625,East Godavari,Total,100,28.1,3.3,56.9
+1626,East Godavari,Urban,100,20.9,1.7,87.3
+1627,West Godavari,Rural,100,30.0,4.8,58.9
+1628,West Godavari,Total,100,28.3,4.3,64.6
+1629,West Godavari,Urban,100,21.1,2.2,88.7
+1630,Krishna,Rural,100,30.8,4.4,56.2
+1631,Krishna,Total,100,26.7,3.4,70.4
+1632,Krishna,Urban,100,20.1,1.7,93.0
+1633,Guntur,Rural,100,31.0,4.2,46.5
+1634,Guntur,Total,100,28.1,3.5,59.2
+1635,Guntur,Urban,100,21.9,1.9,86.3
+1636,Prakasam,Rural,100,29.8,4.2,28.0
+1637,Prakasam,Total,100,28.2,3.7,37.5
+1638,Prakasam,Urban,100,21.2,2.0,77.4
+1639,Sri Potti Sriramulu Nellore,Rural,100,27.9,4.3,25.5
+1640,Sri Potti Sriramulu Nellore,Total,100,24.9,3.7,39.6
+1641,Sri Potti Sriramulu Nellore,Urban,100,16.6,1.9,78.8
+1642,Y.S.R.,Rural,100,21.9,2.6,28.4
+1643,Y.S.R.,Total,100,20.8,2.1,44.8
+1644,Y.S.R.,Urban,100,18.6,1.1,79.1
+1645,Kurnool,Rural,100,27.0,3.3,27.6
+1646,Kurnool,Total,100,25.3,2.8,40.3
+1647,Kurnool,Urban,100,21.0,1.4,72.7
+1648,Anantapur,Rural,100,21.7,2.9,22.0
+1649,Anantapur,Total,100,21.5,2.5,36.8
+1650,Anantapur,Urban,100,20.9,1.3,76.2
+1651,Chittoor,Rural,100,22.4,3.7,19.6
+1652,Chittoor,Total,100,20.2,3.0,37.4
+1653,Chittoor,Urban,100,14.7,1.2,81.5
+1654,Belgaum,Rural,100,38.5,4.7,18.5
+1655,Belgaum,Total,100,35.1,3.9,32.8
+1656,Belgaum,Urban,100,25.5,1.9,72.4
+1657,Bagalkot,Rural,100,42.9,5.2,7.2
+1658,Bagalkot,Total,100,39.6,4.7,18.8
+1659,Bagalkot,Urban,100,32.9,3.7,42.5
+1660,Bijapur,Rural,100,41.7,6.8,5.0
+1661,Bijapur,Total,100,38.3,5.9,18.1
+1662,Bijapur,Urban,100,27.7,2.9,59.5
+1663,Bidar,Rural,100,56.7,5.0,8.8
+1664,Bidar,Total,100,50.2,4.5,23.2
+1665,Bidar,Urban,100,30.0,3.0,68.1
+1666,Raichur,Rural,100,43.2,7.1,10.0
+1667,Raichur,Total,100,39.9,6.2,20.7
+1668,Raichur,Urban,100,30.9,3.6,50.4
+1669,Koppal,Rural,100,39.4,5.2,12.0
+1670,Koppal,Total,100,37.2,4.9,18.5
+1671,Koppal,Urban,100,26.7,3.7,48.4
+1672,Gadag,Rural,100,41.8,5.1,9.2
+1673,Gadag,Total,100,39.6,4.5,21.2
+1674,Gadag,Urban,100,35.7,3.4,42.3
+1675,Dharwad,Rural,100,40.4,3.9,23.1
+1676,Dharwad,Total,100,33.8,2.8,57.0
+1677,Dharwad,Urban,100,29.0,2.0,82.0
+1678,Uttara Kannada,Rural,100,48.1,6.4,50.6
+1679,Uttara Kannada,Total,100,45.0,5.4,59.3
+1680,Uttara Kannada,Urban,100,37.3,3.2,80.6
+1681,Haveri,Rural,100,44.9,5.0,28.2
+1682,Haveri,Total,100,41.6,4.5,37.3
+1683,Haveri,Urban,100,29.9,2.9,69.7
+1684,Bellary,Rural,100,39.9,5.4,12.1
+1685,Bellary,Total,100,35.5,4.5,32.4
+1686,Bellary,Urban,100,28.8,3.0,63.5
+1687,Chitradurga,Rural,100,45.0,5.9,19.1
+1688,Chitradurga,Total,100,42.3,5.1,30.3
+1689,Chitradurga,Urban,100,31.7,2.0,73.9
+1690,Davanagere,Rural,100,46.1,5.8,29.8
+1691,Davanagere,Total,100,41.0,4.8,46.4
+1692,Davanagere,Urban,100,30.7,2.8,80.9
+1693,Shimoga,Rural,100,45.8,7.3,61.8
+1694,Shimoga,Total,100,40.9,5.8,71.2
+1695,Shimoga,Urban,100,32.2,3.2,87.7
+1696,Udupi,Rural,100,34.5,4.2,83.6
+1697,Udupi,Total,100,31.7,3.6,87.2
+1698,Udupi,Urban,100,25.0,2.1,96.0
+1699,Chikmagalur,Rural,100,45.5,5.5,54.1
+1700,Chikmagalur,Total,100,42.3,4.9,61.5
+1701,Chikmagalur,Urban,100,30.5,2.9,89.4
+1702,Tumkur,Rural,100,40.9,5.8,18.3
+1703,Tumkur,Total,100,38.1,5.1,32.5
+1704,Tumkur,Urban,100,27.9,2.5,82.5
+1705,Bangalore,Rural,100,28.8,2.5,74.8
+1706,Bangalore,Total,100,20.7,1.2,94.8
+1707,Bangalore,Urban,100,19.9,1.1,96.8
+1708,Mandya,Rural,100,44.2,4.5,27.5
+1709,Mandya,Total,100,41.9,4.3,37.5
+1710,Mandya,Urban,100,30.9,3.1,85.9
+1711,Hassan,Rural,100,48.7,6.2,26.7
+1712,Hassan,Total,100,44.8,5.4,39.9
+1713,Hassan,Urban,100,29.7,2.4,89.9
+1714,Dakshina Kannada,Rural,100,40.8,3.7,88.1
+1715,Dakshina Kannada,Total,100,33.8,2.7,92.7
+1716,Dakshina Kannada,Urban,100,26.3,1.6,97.6
+1717,Kodagu,Rural,100,40.0,4.6,78.8
+1718,Kodagu,Total,100,39.0,4.4,81.4
+1719,Kodagu,Urban,100,33.4,3.2,97.0
+1720,Mysore,Rural,100,48.0,5.3,27.0
+1721,Mysore,Total,100,39.9,4.0,55.0
+1722,Mysore,Urban,100,28.5,2.2,94.2
+1723,Chamarajanagar,Rural,100,47.5,7.0,15.4
+1724,Chamarajanagar,Total,100,45.8,6.6,23.5
+1725,Chamarajanagar,Urban,100,37.4,4.5,64.3
+1726,Gulbarga,Rural,100,43.4,3.7,4.5
+1727,Gulbarga,Total,100,38.6,3.0,25.5
+1728,Gulbarga,Urban,100,28.8,1.5,68.2
+1729,Yadgir,Rural,100,51.2,5.5,4.3
+1730,Yadgir,Total,100,48.0,5.0,11.2
+1731,Yadgir,Urban,100,34.4,2.9,40.2
+1732,Kolar,Rural,100,40.9,5.1,25.5
+1733,Kolar,Total,100,38.0,4.0,42.8
+1734,Kolar,Urban,100,31.6,1.6,80.2
+1735,Chikkaballapura,Rural,100,38.3,4.9,23.0
+1736,Chikkaballapura,Total,100,36.0,4.2,36.5
+1737,Chikkaballapura,Urban,100,27.9,1.6,84.3
+1738,Bangalore Rural,Rural,100,36.5,3.7,75.5
+1739,Bangalore Rural,Total,100,34.4,3.1,79.9
+1740,Bangalore Rural,Urban,100,29.1,1.7,91.3
+1741,Ramanagara,Rural,100,43.5,6.8,28.0
+1742,Ramanagara,Total,100,41.3,6.0,41.9
+1743,Ramanagara,Urban,100,34.2,3.2,88.5
+1744,North Goa,Rural,100,23.0,1.8,68.7
+1745,North Goa,Total,100,21.0,1.4,78.7
+1746,North Goa,Urban,100,19.6,1.1,85.3
+1747,South Goa,Rural,100,23.4,2.0,73.8
+1748,South Goa,Total,100,24.1,1.7,81.0
+1749,South Goa,Urban,100,24.4,1.5,85.2
+1750,LAKSHADWEEP,Rural,100,40.86,1.74,98.06
+1751,LAKSHADWEEP,Total,100,20.57,0.78,97.8
+1752,LAKSHADWEEP,Urban,100,14.32,0.48,97.71
+1753,Kasaragod,Rural,100,31.9,7.6,88.8
+1754,Kasaragod,Total,100,26.8,5.8,91.8
+1755,Kasaragod,Urban,100,18.5,2.7,96.6
+1756,Kannur,Rural,100,31.1,6.2,96.3
+1757,Kannur,Total,100,23.7,3.6,97.6
+1758,Kannur,Urban,100,19.4,2.1,98.5
+1759,Wayanad,Rural,100,35.4,9.0,91.7
+1760,Wayanad,Total,100,35.5,8.9,91.8
+1761,Wayanad,Urban,100,40.0,5.5,95.3
+1762,Kozhikode,Rural,100,27.1,6.6,97.0
+1763,Kozhikode,Total,100,21.9,4.6,97.8
+1764,Kozhikode,Urban,100,19.3,3.6,98.2
+1765,Malappuram,Rural,100,27.6,4.2,96.5
+1766,Malappuram,Total,100,24.8,3.4,97.4
+1767,Malappuram,Urban,100,21.3,2.5,98.5
+1768,Palakkad,Rural,100,35.4,5.4,88.2
+1769,Palakkad,Total,100,33.6,4.9,89.8
+1770,Palakkad,Urban,100,28.1,3.3,94.9
+1771,Thrissur,Rural,100,35.2,5.1,96.9
+1772,Thrissur,Total,100,30.7,4.4,97.8
+1773,Thrissur,Urban,100,28.5,4.1,98.3
+1774,Ernakulam,Rural,100,29.6,5.0,96.9
+1775,Ernakulam,Total,100,24.6,3.7,97.9
+1776,Ernakulam,Urban,100,22.3,3.1,98.3
+1777,Idukki,Rural,100,44.1,8.3,88.7
+1778,Idukki,Total,100,43.2,8.0,89.1
+1779,Idukki,Urban,100,23.5,1.4,99.3
+1780,Kottayam,Rural,100,35.0,4.6,96.0
+1781,Kottayam,Total,100,32.5,4.1,96.6
+1782,Kottayam,Urban,100,26.5,2.6,98.2
+1783,Alappuzha,Rural,100,29.9,7.7,90.9
+1784,Alappuzha,Total,100,28.2,7.0,92.9
+1785,Alappuzha,Urban,100,26.7,6.5,94.7
+1786,Pathanamthitta,Rural,100,30.2,4.9,93.7
+1787,Pathanamthitta,Total,100,29.5,4.7,93.9
+1788,Pathanamthitta,Urban,100,23.7,2.8,96.0
+1789,Kollam,Rural,100,29.9,7.5,93.0
+1790,Kollam,Total,100,27.5,6.6,94.5
+1791,Kollam,Urban,100,24.4,5.5,96.4
+1792,Thiruvananthapuram,Rural,100,34.2,10.2,91.9
+1793,Thiruvananthapuram,Total,100,29.8,8.0,94.2
+1794,Thiruvananthapuram,Urban,100,25.9,6.1,96.3
+1795,Thiruvallur,Rural,100,32.4,3.3,28.3
+1796,Thiruvallur,Total,100,23.1,1.8,67.9
+1797,Thiruvallur,Urban,100,18.1,1.0,88.8
+1798,Chennai,Total,100,17.4,0.9,95.6
+1799,Chennai,Urban,100,17.4,0.9,95.6
+1800,Kancheepuram,Rural,100,31.7,2.3,29.3
+1801,Kancheepuram,Total,100,22.6,1.3,65.5
+1802,Kancheepuram,Urban,100,17.6,0.8,85.6
+1803,Vellore,Rural,100,27.8,2.3,19.2
+1804,Vellore,Total,100,24.9,2.0,41.1
+1805,Vellore,Urban,100,21.0,1.5,71.2
+1806,Tiruvannamalai,Rural,100,29.0,2.3,12.5
+1807,Tiruvannamalai,Total,100,27.0,2.1,22.8
+1808,Tiruvannamalai,Urban,100,18.7,1.3,65.1
+1809,Viluppuram,Rural,100,36.0,2.0,13.2
+1810,Viluppuram,Total,100,34.2,1.9,21.1
+1811,Viluppuram,Urban,100,23.8,1.5,65.6
+1812,Salem,Rural,100,32.2,2.3,14.6
+1813,Salem,Total,100,28.3,1.8,35.0
+1814,Salem,Urban,100,24.4,1.3,54.9
+1815,Namakkal,Rural,100,25.4,1.8,31.2
+1816,Namakkal,Total,100,24.9,1.6,40.7
+1817,Namakkal,Urban,100,24.3,1.2,54.6
+1818,Erode,Rural,100,28.6,2.0,33.7
+1819,Erode,Total,100,26.2,1.5,49.0
+1820,Erode,Urban,100,23.8,1.1,63.8
+1821,The Nilgiris,Rural,100,34.6,2.1,42.3
+1822,The Nilgiris,Total,100,35.6,2.0,51.9
+1823,The Nilgiris,Urban,100,36.4,1.9,58.9
+1824,Dindigul,Rural,100,31.5,1.8,18.9
+1825,Dindigul,Total,100,29.4,1.6,33.3
+1826,Dindigul,Urban,100,25.9,1.4,57.4
+1827,Karur,Rural,100,29.0,2.2,23.0
+1828,Karur,Total,100,25.3,1.6,41.2
+1829,Karur,Urban,100,20.1,0.9,67.1
+1830,Tiruchirappalli,Rural,100,29.8,2.4,24.0
+1831,Tiruchirappalli,Total,100,25.7,1.8,48.5
+1832,Tiruchirappalli,Urban,100,21.4,1.2,74.2
+1833,Perambalur,Rural,100,30.2,2.2,15.6
+1834,Perambalur,Total,100,28.0,2.0,22.2
+1835,Perambalur,Urban,100,16.9,0.9,55.2
+1836,Ariyalur,Rural,100,37.9,3.4,14.2
+1837,Ariyalur,Total,100,36.8,3.2,18.1
+1838,Ariyalur,Urban,100,27.7,2.0,51.3
+1839,Cuddalore,Rural,100,38.9,2.4,19.9
+1840,Cuddalore,Total,100,34.8,2.1,36.1
+1841,Cuddalore,Urban,100,26.4,1.5,68.6
+1842,Nagapattinam,Rural,100,44.7,3.2,31.2
+1843,Nagapattinam,Total,100,41.7,3.0,39.5
+1844,Nagapattinam,Urban,100,31.0,2.4,69.7
+1845,Thiruvarur,Rural,100,44.8,4.1,31.5
+1846,Thiruvarur,Total,100,41.4,3.7,39.7
+1847,Thiruvarur,Urban,100,27.9,1.7,72.8
+1848,Thanjavur,Rural,100,43.1,4.5,28.8
+1849,Thanjavur,Total,100,38.0,3.6,45.1
+1850,Thanjavur,Urban,100,28.7,2.0,74.8
+1851,Pudukkottai,Rural,100,39.5,4.2,17.7
+1852,Pudukkottai,Total,100,36.6,3.7,28.0
+1853,Pudukkottai,Urban,100,25.1,1.6,69.3
+1854,Sivaganga,Rural,100,31.7,3.0,23.9
+1855,Sivaganga,Total,100,28.8,2.5,40.7
+1856,Sivaganga,Urban,100,22.0,1.4,78.5
+1857,Madurai,Rural,100,32.1,2.1,20.7
+1858,Madurai,Total,100,23.2,1.3,59.2
+1859,Madurai,Urban,100,17.3,0.8,84.8
+1860,Theni,Rural,100,35.2,2.1,24.8
+1861,Theni,Total,100,32.4,1.6,39.3
+1862,Theni,Urban,100,29.9,1.3,52.0
+1863,Virudhunagar,Rural,100,27.0,1.7,14.6
+1864,Virudhunagar,Total,100,23.1,1.3,30.9
+1865,Virudhunagar,Urban,100,19.3,0.9,46.9
+1866,Ramanathapuram,Rural,100,34.4,3.0,22.5
+1867,Ramanathapuram,Total,100,31.6,2.6,36.6
+1868,Ramanathapuram,Urban,100,25.1,1.6,70.6
+1869,Thoothukkudi,Rural,100,33.5,2.0,28.2
+1870,Thoothukkudi,Total,100,28.5,1.6,50.0
+1871,Thoothukkudi,Urban,100,23.2,1.3,73.1
+1872,Tirunelveli,Rural,100,30.3,1.6,33.2
+1873,Tirunelveli,Total,100,27.8,1.4,47.6
+1874,Tirunelveli,Urban,100,25.1,1.1,62.9
+1875,Kanniyakumari,Rural,100,35.6,2.7,83.1
+1876,Kanniyakumari,Total,100,33.4,2.9,87.5
+1877,Kanniyakumari,Urban,100,33.0,3.0,88.4
+1878,Dharmapuri,Rural,100,33.1,2.5,10.7
+1879,Dharmapuri,Total,100,31.4,2.3,19.0
+1880,Dharmapuri,Urban,100,23.0,1.6,59.0
+1881,Krishnagiri,Rural,100,32.7,2.2,19.2
+1882,Krishnagiri,Total,100,29.4,1.8,33.0
+1883,Krishnagiri,Urban,100,18.3,0.6,78.3
+1884,Coimbatore,Rural,100,27.4,1.6,33.3
+1885,Coimbatore,Total,100,24.9,1.0,66.7
+1886,Coimbatore,Urban,100,24.1,0.8,77.9
+1887,Tiruppur,Rural,100,27.6,1.7,30.9
+1888,Tiruppur,Total,100,25.3,1.1,57.2
+1889,Tiruppur,Urban,100,23.6,0.7,75.0
+1890,Yanam,Total,100,15.4,0.7,81.9
+1891,Yanam,Urban,100,15.4,0.7,81.9
+1892,Puducherry,Rural,100,31.9,2.6,35.8
+1893,Puducherry,Total,100,22.8,1.6,68.5
+1894,Puducherry,Urban,100,19.0,1.2,82.5
+1895,Mahe,Total,100,15.8,1.1,97.8
+1896,Mahe,Urban,100,15.8,1.1,97.8
+1897,Karaikal,Rural,100,36.8,2.1,47.6
+1898,Karaikal,Total,100,29.2,1.6,60.6
+1899,Karaikal,Urban,100,21.0,1.2,74.4
+1900,Nicobars,Rural,100,23.8,1.2,80.9
+1901,Nicobars,Total,100,23.8,1.2,80.9
+1902,North  & Middle Andaman,Rural,100,44.3,2.7,48.0
+1903,North  & Middle Andaman,Total,100,44.6,2.8,48.3
+1904,North  & Middle Andaman,Urban,100,55.9,6.6,56.1
+1905,South Andaman,Rural,100,33.5,3.5,64.7
+1906,South Andaman,Total,100,26.4,2.2,78.3
+1907,South Andaman,Urban,100,21.4,1.2,87.8
