@@ -33,7 +33,7 @@ dct = {'District': [], 'Total_Households': [],
        'Households_Rural': [], 'Households_Urban': []}
 
 for i in range(0, len(df2)):
-
+    
     if (df2.loc[i]['District name'] in df.values):
         dct['District'].append(df2.at[i, 'District name'])
         dct['Total_Households'].append(df2.at[i, 'Households'])
