@@ -10,13 +10,10 @@ df.set_index(keys='State/UT',inplace=True)
 
 df['Population'] = 0
 for i in range(0,len(df1)):
-    str = df1.at[i,'State/UT']+'*'
     str1 = df1.at[i,'State/UT']
-    if (str in df.index) :
-        df.at[str,'Total_Beds'] = df.at[str,'Total_Beds'] + df1.at[i,'HospitalBeds']
-        df.at[str,'Population'] = df1.at[i,'Population']
-    else:
+    if (str1 in df.index) :
         df.at[str1,'Total_Beds'] = df.at[str1,'Total_Beds'] + df1.at[i,'HospitalBeds']
         df.at[str1,'Population'] = df1.at[i,'Population']
 
 df.to_csv('ps15.csv')
+df.to_csv('government_hospital.csv')
